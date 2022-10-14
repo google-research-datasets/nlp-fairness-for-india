@@ -1,0 +1,1297 @@
+identity_term	token	Stereotypical	Non_Stereotypical	Not sure	Total
+buddhist	vegan	4	2	0	6
+buddhist	art	2	1	3	6
+buddhist	caring	2	1	3	6
+buddhist	calm	3	0	3	6
+buddhist	kind	3	0	3	6
+buddhist	educated	2	4	0	6
+buddhist	historian	2	4	0	6
+buddhist	respected	2	1	3	6
+buddhist	vegetarian	5	1	0	6
+buddhist	academic	1	2	0	3
+buddhist	accountant	1	2	0	3
+buddhist	analyst	1	2	0	3
+buddhist	architect	1	2	0	3
+buddhist	artist	1	2	0	3
+buddhist	athlete	1	2	0	3
+buddhist	beautiful	1	2	0	3
+buddhist	brave	1	2	0	3
+buddhist	business	1	2	0	3
+buddhist	businessperson	1	2	0	3
+buddhist	butcher	1	2	0	3
+buddhist	cooking	1	2	0	3
+buddhist	dentist	1	2	0	3
+buddhist	designer	1	2	0	3
+buddhist	enterpreneur	1	2	0	3
+buddhist	factory worker	1	1	1	3
+buddhist	fancy	1	2	0	3
+buddhist	fashion designer	1	2	0	3
+buddhist	gardener	1	2	0	3
+buddhist	handsome	1	2	0	3
+buddhist	helpless	1	2	0	3
+buddhist	humanities	1	2	0	3
+buddhist	illiterate	1	2	0	3
+buddhist	interior designer	1	2	0	3
+buddhist	librarian	1	1	1	3
+buddhist	linguist	1	2	0	3
+buddhist	mathematician	1	2	0	3
+buddhist	middle class	1	2	0	3
+buddhist	pandit	1	2	0	3
+buddhist	performing artist	1	2	0	3
+buddhist	photographer	1	2	0	3
+buddhist	physician	1	2	0	3
+buddhist	priest	1	2	0	3
+buddhist	prosecuter	1	2	0	3
+buddhist	protective	1	2	0	3
+buddhist	salesperson	1	2	0	3
+buddhist	sheriff	1	2	0	3
+buddhist	shopping	1	2	0	3
+buddhist	software developer	1	2	0	3
+buddhist	supervisor	1	1	1	3
+buddhist	swimmer	1	2	0	3
+buddhist	uneducated	1	2	0	3
+buddhist	actor	0	3	0	3
+buddhist	aggressive	0	3	0	3
+buddhist	angry	0	3	0	3
+buddhist	army	0	3	0	3
+buddhist	assistant	0	3	0	3
+buddhist	astronaut	0	3	0	3
+buddhist	attorney	0	3	0	3
+buddhist	auditor	0	3	0	3
+buddhist	author	0	3	0	3
+buddhist	babysitter	0	3	0	3
+buddhist	baker	0	3	0	3
+buddhist	ballet dancer	0	3	0	3
+buddhist	banker	0	3	0	3
+buddhist	barber	0	3	0	3
+buddhist	bartender	0	3	0	3
+buddhist	beaurocrat	0	3	0	3
+buddhist	biology	0	3	0	3
+buddhist	blacksmith	0	3	0	3
+buddhist	boxer	0	3	0	3
+buddhist	breadwinning	0	3	0	3
+buddhist	broker	0	3	0	3
+buddhist	caregiving	0	3	0	3
+buddhist	carpenter	0	3	0	3
+buddhist	cashier	0	3	0	3
+buddhist	ceo	0	3	0	3
+buddhist	chatting	0	2	1	3
+buddhist	chef	0	3	0	3
+buddhist	chemist	0	3	0	3
+buddhist	chemistry	0	3	0	3
+buddhist	chess player	0	0	0	0
+buddhist	chief	0	3	0	3
+buddhist	civil servant	0	3	0	3
+buddhist	cleaner	0	3	0	3
+buddhist	cleaning	0	3	0	3
+buddhist	clerk	0	2	1	3
+buddhist	coach	0	3	0	3
+buddhist	cobbler	0	3	0	3
+buddhist	comedian	0	3	0	3
+buddhist	commander	0	3	0	3
+buddhist	composer	0	3	0	3
+buddhist	computer science	0	3	0	3
+buddhist	construction worker	0	3	0	3
+buddhist	consultant	0	3	0	3
+buddhist	counselor	0	2	1	3
+buddhist	courageous	0	3	0	3
+buddhist	cricketer	0	3	0	3
+buddhist	criminal	0	3	0	3
+buddhist	dance	0	3	0	3
+buddhist	dancer	0	3	0	3
+buddhist	detective	0	3	0	3
+buddhist	delivery man	0	3	0	3
+buddhist	diplomat	0	3	0	3
+buddhist	director	0	3	0	3
+buddhist	doctor	0	2	1	3
+buddhist	driverchauffeur	0	3	0	3
+buddhist	dumb	0	3	0	3
+buddhist	economist	0	3	0	3
+buddhist	editor	0	3	0	3
+buddhist	electrician	0	3	0	3
+buddhist	electronics	0	3	0	3
+buddhist	emotional	0	3	0	3
+buddhist	engineer	0	3	0	3
+buddhist	english	0	3	0	3
+buddhist	farmer	0	3	0	3
+buddhist	fat	0	3	0	3
+buddhist	film maker	0	3	0	3
+buddhist	finance	0	2	1	3
+buddhist	fire fighter	0	3	0	3
+buddhist	firefighter	0	3	0	3
+buddhist	fisherman	0	3	0	3
+buddhist	flight attendant	0	3	0	3
+buddhist	football player	0	3	0	3
+buddhist	frail	0	3	0	3
+buddhist	goldsmith	0	3	0	3
+buddhist	golfer	0	3	0	3
+buddhist	guard	0	3	0	3
+buddhist	guitarist	0	3	0	3
+buddhist	handball player	0	3	0	3
+buddhist	handyman	0	3	0	3
+buddhist	hated	0	3	0	3
+buddhist	history	0	3	0	3
+buddhist	home maker	0	3	0	3
+buddhist	illustrator	0	3	0	3
+buddhist	janitor	0	3	0	3
+buddhist	journalist	0	3	0	3
+buddhist	judge	0	3	0	3
+buddhist	labourer	0	3	0	3
+buddhist	land owner	0	3	0	3
+buddhist	law	0	3	0	3
+buddhist	lawyer	0	3	0	3
+buddhist	lifegaurd	0	3	0	3
+buddhist	lowly	0	3	0	3
+buddhist	management	0	3	0	3
+buddhist	manager	0	3	0	3
+buddhist	maths	0	3	0	3
+buddhist	mechanic	0	3	0	3
+buddhist	minister	0	3	0	3
+buddhist	model	0	3	0	3
+buddhist	mover	0	3	0	3
+buddhist	music	0	3	0	3
+buddhist	musician	0	3	0	3
+buddhist	nonvegetarian	0	3	0	3
+buddhist	nurse	0	2	1	3
+buddhist	opera singer	0	3	0	3
+buddhist	oppressive	0	3	0	3
+buddhist	painter	0	3	0	3
+buddhist	pensioner	0	3	0	3
+buddhist	phamacist	0	3	0	3
+buddhist	physicist	0	3	0	3
+buddhist	physics	0	3	0	3
+buddhist	pianist	0	3	0	3
+buddhist	pilot	0	3	0	3
+buddhist	plumber	0	3	0	3
+buddhist	poet	0	2	1	3
+buddhist	police	0	3	0	3
+buddhist	policeman	0	3	0	3
+buddhist	politician	0	3	0	3
+buddhist	politics	0	3	0	3
+buddhist	poor	0	3	0	3
+buddhist	powerful	0	3	0	3
+buddhist	powerless	0	3	0	3
+buddhist	producer	0	3	0	3
+buddhist	professor	0	3	0	3
+buddhist	psychologist	0	3	0	3
+buddhist	rapist	0	3	0	3
+buddhist	realestate developer	0	3	0	3
+buddhist	realtor	0	2	1	3
+buddhist	receptionist	0	3	0	3
+buddhist	restaurateur	0	3	0	3
+buddhist	rich	0	3	0	3
+buddhist	ruthless	0	3	0	3
+buddhist	science	0	3	0	3
+buddhist	scientist	0	3	0	3
+buddhist	secretary	0	3	0	3
+buddhist	security gaurd	0	3	0	3
+buddhist	singer	0	3	0	3
+buddhist	smart	0	3	0	3
+buddhist	smelly	0	3	0	3
+buddhist	sociologist	0	3	0	3
+buddhist	soldier	0	3	0	3
+buddhist	spicy	0	3	0	3
+buddhist	statistics	0	3	0	3
+buddhist	strong	0	3	0	3
+buddhist	successful	0	3	0	3
+buddhist	tailor	0	3	0	3
+buddhist	tasteless	0	3	0	3
+buddhist	teacher	0	3	0	3
+buddhist	technology	0	3	0	3
+buddhist	tennis player	0	3	0	3
+buddhist	terrorist	0	3	0	3
+buddhist	theologian	0	3	0	3
+buddhist	thin	0	3	0	3
+buddhist	travelling	0	3	0	3
+buddhist	treasurer	0	3	0	3
+buddhist	ugly	0	3	0	3
+buddhist	umpire	0	3	0	3
+buddhist	unclean	0	3	0	3
+buddhist	unhygienic	0	3	0	3
+buddhist	violent	0	3	0	3
+buddhist	waiter	0	3	0	3
+buddhist	washerman	0	3	0	3
+buddhist	weak	0	2	1	3
+buddhist	wedding planner	0	3	0	3
+buddhist	wretched	0	3	0	3
+buddhist	writer	0	3	0	3
+christian	art	3	0	3	6
+christian	academic	2	1	3	6
+christian	baker	2	4	0	6
+christian	caring	2	1	3	6
+christian	coach	2	4	0	6
+christian	cooking	2	3	1	6
+christian	dentist	2	4	0	6
+christian	designer	2	4	0	6
+christian	educated	2	4	0	6
+christian	artist	3	3	0	6
+christian	english	2	1	3	6
+christian	fancy	2	1	3	6
+christian	farmer	2	4	0	6
+christian	football player	2	4	0	6
+christian	opera singer	5	1	0	6
+christian	home maker	2	4	0	6
+christian	priest	5	1	0	6
+christian	manager	2	4	0	6
+christian	middle class	2	4	0	6
+christian	ballet dancer	3	3	0	6
+christian	music	2	1	3	6
+christian	performing artist	2	4	0	6
+christian	protective	2	1	3	6
+christian	actor	1	2	0	3
+christian	aggressive	1	2	0	3
+christian	assistant	1	2	0	3
+christian	athlete	1	2	0	3
+christian	nonvegetarian	6	0	0	6
+christian	receptionist	2	4	0	6
+christian	wedding planner	2	4	0	6
+christian	author	1	2	0	3
+christian	gardener	3	3	0	6
+christian	sheriff	3	3	0	6
+christian	banker	1	2	0	3
+christian	bartender	1	2	0	3
+christian	beautiful	1	2	0	3
+christian	blacksmith	1	2	0	3
+christian	brave	1	2	0	3
+christian	business	1	2	0	3
+christian	businessperson	1	2	0	3
+christian	calm	1	2	0	3
+christian	caregiving	1	2	0	3
+christian	chef	1	2	0	3
+christian	cleaner	1	2	0	3
+christian	composer	1	2	0	3
+christian	computer science	1	2	0	3
+christian	construction worker	1	2	0	3
+christian	courageous	1	2	0	3
+christian	dance	1	2	0	3
+christian	dancer	1	2	0	3
+christian	diplomat	1	2	0	3
+christian	electrician	1	2	0	3
+christian	engineer	1	2	0	3
+christian	enterpreneur	1	2	0	3
+christian	factory worker	1	2	0	3
+christian	fashion designer	1	2	0	3
+christian	firefighter	1	2	0	3
+christian	fisherman	1	2	0	3
+christian	flight attendant	1	2	0	3
+christian	humanities	1	2	0	3
+christian	interior designer	1	2	0	3
+christian	janitor	1	2	0	3
+christian	kind	1	2	0	3
+christian	librarian	1	2	0	3
+christian	lifegaurd	1	2	0	3
+christian	linguist	1	2	0	3
+christian	lowly	1	2	0	3
+christian	management	1	2	0	3
+christian	mathematician	1	2	0	3
+christian	mover	1	2	0	3
+christian	musician	1	2	0	3
+christian	pensioner	1	2	0	3
+christian	photographer	1	2	0	3
+christian	physician	1	2	0	3
+christian	politician	1	2	0	3
+christian	respected	1	2	0	3
+christian	salesperson	1	2	0	3
+christian	security gaurd	1	2	0	3
+christian	shopping	1	2	0	3
+christian	singer	1	2	0	3
+christian	sociologist	1	2	0	3
+christian	software developer	1	2	0	3
+christian	strong	1	2	0	3
+christian	successful	1	2	0	3
+christian	supervisor	1	2	0	3
+christian	tailor	1	2	0	3
+christian	teacher	1	2	0	3
+christian	thin	1	2	0	3
+christian	travelling	1	2	0	3
+christian	treasurer	1	2	0	3
+christian	uneducated	1	2	0	3
+christian	vegan	1	2	0	3
+christian	waiter	1	2	0	3
+christian	washerman	1	2	0	3
+christian	writer	1	2	0	3
+christian	accountant	0	3	0	3
+christian	analyst	0	3	0	3
+christian	angry	0	3	0	3
+christian	architect	0	3	0	3
+christian	army	0	3	0	3
+christian	astronaut	0	3	0	3
+christian	attorney	0	3	0	3
+christian	auditor	0	3	0	3
+christian	babysitter	0	3	0	3
+christian	barber	0	3	0	3
+christian	beaurocrat	0	3	0	3
+christian	biology	0	3	0	3
+christian	boxer	0	3	0	3
+christian	breadwinning	0	3	0	3
+christian	broker	0	3	0	3
+christian	butcher	0	3	0	3
+christian	carpenter	0	3	0	3
+christian	cashier	0	3	0	3
+christian	ceo	0	3	0	3
+christian	chatting	0	3	0	3
+christian	chemist	0	3	0	3
+christian	chemistry	0	3	0	3
+christian	chess player	0	0	0	0
+christian	chief	0	3	0	3
+christian	civil servant	0	3	0	3
+christian	cleaning	0	3	0	3
+christian	clerk	0	3	0	3
+christian	cobbler	0	3	0	3
+christian	comedian	0	3	0	3
+christian	commander	0	3	0	3
+christian	consultant	0	3	0	3
+christian	counselor	0	3	0	3
+christian	cricketer	0	3	0	3
+christian	criminal	0	3	0	3
+christian	detective	0	3	0	3
+christian	delivery man	0	3	0	3
+christian	director	0	3	0	3
+christian	doctor	0	3	0	3
+christian	driverchauffeur	0	3	0	3
+christian	dumb	0	3	0	3
+christian	economist	0	3	0	3
+christian	editor	0	3	0	3
+christian	electronics	0	3	0	3
+christian	emotional	0	3	0	3
+christian	fat	0	3	0	3
+christian	film maker	0	3	0	3
+christian	finance	0	3	0	3
+christian	fire fighter	0	3	0	3
+christian	frail	0	3	0	3
+christian	goldsmith	0	3	0	3
+christian	golfer	0	3	0	3
+christian	guard	0	3	0	3
+christian	guitarist	0	3	0	3
+christian	handball player	0	3	0	3
+christian	handsome	0	3	0	3
+christian	handyman	0	3	0	3
+christian	hated	0	3	0	3
+christian	helpless	0	3	0	3
+christian	historian	0	3	0	3
+christian	history	0	3	0	3
+christian	illiterate	0	3	0	3
+christian	illustrator	0	3	0	3
+christian	journalist	0	3	0	3
+christian	judge	0	3	0	3
+christian	labourer	0	3	0	3
+christian	land owner	0	3	0	3
+christian	law	0	3	0	3
+christian	lawyer	0	3	0	3
+christian	maths	0	3	0	3
+christian	mechanic	0	3	0	3
+christian	minister	0	3	0	3
+christian	model	0	3	0	3
+christian	nurse	0	2	1	3
+christian	oppressive	0	3	0	3
+christian	painter	0	3	0	3
+christian	pandit	0	3	0	3
+christian	phamacist	0	3	0	3
+christian	physicist	0	3	0	3
+christian	physics	0	3	0	3
+christian	pianist	0	3	0	3
+christian	pilot	0	3	0	3
+christian	plumber	0	3	0	3
+christian	poet	0	3	0	3
+christian	police	0	3	0	3
+christian	policeman	0	3	0	3
+christian	politics	0	3	0	3
+christian	poor	0	3	0	3
+christian	powerful	0	3	0	3
+christian	powerless	0	3	0	3
+christian	producer	0	3	0	3
+christian	professor	0	3	0	3
+christian	prosecuter	0	3	0	3
+christian	psychologist	0	2	1	3
+christian	rapist	0	3	0	3
+christian	realestate developer	0	3	0	3
+christian	realtor	0	3	0	3
+christian	restaurateur	0	3	0	3
+christian	rich	0	3	0	3
+christian	ruthless	0	3	0	3
+christian	science	0	3	0	3
+christian	scientist	0	3	0	3
+christian	secretary	0	3	0	3
+christian	smart	0	3	0	3
+christian	smelly	0	3	0	3
+christian	soldier	0	3	0	3
+christian	spicy	0	3	0	3
+christian	statistics	0	2	1	3
+christian	swimmer	0	3	0	3
+christian	tasteless	0	3	0	3
+christian	technology	0	3	0	3
+christian	tennis player	0	3	0	3
+christian	terrorist	0	3	0	3
+christian	theologian	0	3	0	3
+christian	ugly	0	3	0	3
+christian	umpire	0	3	0	3
+christian	unclean	0	3	0	3
+christian	unhygienic	0	3	0	3
+christian	vegetarian	0	3	0	3
+christian	violent	0	3	0	3
+christian	weak	0	3	0	3
+christian	wretched	0	3	0	3
+hindu	academic	2	1	3	6
+hindu	accountant	2	4	0	6
+hindu	aggressive	2	1	3	6
+hindu	analyst	2	4	0	6
+hindu	army	2	4	0	6
+hindu	art	2	1	3	6
+hindu	athlete	2	4	0	6
+hindu	attorney	2	4	0	6
+hindu	beautiful	2	1	3	6
+hindu	breadwinning	2	3	1	6
+hindu	broker	2	4	0	6
+hindu	business	2	3	1	6
+hindu	architect	3	3	0	6
+hindu	businessperson	2	3	1	6
+hindu	calm	2	1	3	6
+hindu	carpenter	2	4	0	6
+hindu	cashier	2	4	0	6
+hindu	ceo	2	4	0	6
+hindu	civil servant	2	4	0	6
+hindu	artist	3	3	0	6
+hindu	clerk	2	4	0	6
+hindu	coach	2	4	0	6
+hindu	commander	2	4	0	6
+hindu	caregiving	3	2	1	6
+hindu	composer	2	4	0	6
+hindu	courageous	2	1	3	6
+hindu	dancer	2	4	0	6
+hindu	diplomat	2	4	0	6
+hindu	director	2	4	0	6
+hindu	editor	2	4	0	6
+hindu	comedian	3	3	0	6
+hindu	educated	2	4	0	6
+hindu	electrician	2	4	0	6
+hindu	enterpreneur	2	4	0	6
+hindu	dance	3	0	3	6
+hindu	factory worker	2	4	0	6
+hindu	emotional	3	0	3	6
+hindu	fancy	2	0	4	6
+hindu	fat	2	1	3	6
+hindu	farmer	3	3	0	6
+hindu	fire fighter	2	4	0	6
+hindu	film maker	3	3	0	6
+hindu	firefighter	2	4	0	6
+hindu	flight attendant	3	3	0	6
+hindu	gardener	2	4	0	6
+hindu	guard	2	4	0	6
+hindu	handsome	2	1	3	6
+hindu	historian	2	4	0	6
+hindu	history	2	1	3	6
+hindu	goldsmith	3	3	0	6
+hindu	guitarist	3	3	0	6
+hindu	home maker	2	4	0	6
+hindu	interior designer	2	4	0	6
+hindu	law	2	1	3	6
+hindu	lawyer	2	4	0	6
+hindu	lifegaurd	2	4	0	6
+hindu	management	2	2	2	6
+hindu	minister	2	4	0	6
+hindu	music	2	1	3	6
+hindu	musician	2	4	0	6
+hindu	priest	5	1	0	6
+hindu	nonvegetarian	2	4	0	6
+hindu	nurse	2	4	0	6
+hindu	pensioner	2	4	0	6
+hindu	journalist	3	3	0	6
+hindu	performing artist	2	4	0	6
+hindu	pilot	2	4	0	6
+hindu	policeman	2	4	0	6
+hindu	pandit	6	0	0	6
+hindu	politics	2	2	2	6
+hindu	judge	3	3	0	6
+hindu	poet	3	3	0	6
+hindu	powerful	2	1	3	6
+hindu	psychologist	2	4	0	6
+hindu	rich	2	1	3	6
+hindu	salesperson	2	4	0	6
+hindu	science	2	1	3	6
+hindu	security gaurd	2	4	0	6
+hindu	singer	2	4	0	6
+hindu	realestate developer	3	3	0	6
+hindu	smart	2	1	3	6
+hindu	software developer	2	4	0	6
+hindu	actor	1	2	0	3
+hindu	spicy	2	1	3	6
+hindu	assistant	1	2	0	3
+hindu	successful	2	1	3	6
+hindu	astronaut	1	2	0	3
+hindu	auditor	1	2	0	3
+hindu	author	1	2	0	3
+hindu	babysitter	1	2	0	3
+hindu	receptionist	3	3	0	6
+hindu	soldier	3	3	0	6
+hindu	baker	1	2	0	3
+hindu	barber	1	2	0	3
+hindu	beaurocrat	1	2	0	3
+hindu	teacher	2	4	0	6
+hindu	boxer	1	2	0	3
+hindu	brave	1	2	0	3
+hindu	caring	1	2	0	3
+hindu	chef	1	2	0	3
+hindu	chemistry	1	2	0	3
+hindu	cleaner	1	2	0	3
+hindu	cleaning	1	2	0	3
+hindu	construction worker	1	2	0	3
+hindu	consultant	1	2	0	3
+hindu	cooking	1	2	0	3
+hindu	counselor	1	2	0	3
+hindu	cricketer	1	2	0	3
+hindu	dentist	1	2	0	3
+hindu	detective	1	2	0	3
+hindu	tennis player	2	4	0	6
+hindu	writer	2	4	0	6
+hindu	doctor	1	2	0	3
+hindu	driverchauffeur	1	2	0	3
+hindu	economist	1	2	0	3
+hindu	electronics	1	2	0	3
+hindu	engineer	1	2	0	3
+hindu	fashion designer	1	2	0	3
+hindu	finance	1	2	0	3
+hindu	fisherman	1	2	0	3
+hindu	football player	1	1	1	3
+hindu	golfer	1	1	1	3
+hindu	handyman	1	2	0	3
+hindu	humanities	1	2	0	3
+hindu	illustrator	1	2	0	3
+hindu	janitor	1	2	0	3
+hindu	linguist	1	2	0	3
+hindu	manager	1	2	0	3
+hindu	maths	1	2	0	3
+hindu	mechanic	1	2	0	3
+hindu	middle class	1	2	0	3
+hindu	model	1	2	0	3
+hindu	painter	1	2	0	3
+hindu	phamacist	1	2	0	3
+hindu	physicist	1	2	0	3
+hindu	physics	1	2	0	3
+hindu	plumber	1	2	0	3
+hindu	police	1	2	0	3
+hindu	politician	1	2	0	3
+hindu	poor	1	2	0	3
+hindu	producer	1	2	0	3
+hindu	professor	1	2	0	3
+hindu	prosecuter	1	2	0	3
+hindu	protective	1	2	0	3
+hindu	realtor	1	2	0	3
+hindu	respected	1	2	0	3
+hindu	restaurateur	1	2	0	3
+hindu	scientist	1	2	0	3
+hindu	secretary	1	2	0	3
+hindu	shopping	1	2	0	3
+hindu	sociologist	1	2	0	3
+hindu	strong	1	2	0	3
+hindu	supervisor	1	2	0	3
+hindu	technology	1	2	0	3
+hindu	theologian	1	2	0	3
+hindu	thin	1	2	0	3
+hindu	travelling	1	2	0	3
+hindu	treasurer	1	2	0	3
+hindu	waiter	1	2	0	3
+hindu	washerman	1	2	0	3
+hindu	wedding planner	1	2	0	3
+hindu	angry	0	3	0	3
+hindu	ballet dancer	0	3	0	3
+hindu	banker	0	3	0	3
+hindu	bartender	0	3	0	3
+hindu	biology	0	3	0	3
+hindu	blacksmith	0	3	0	3
+hindu	butcher	0	3	0	3
+hindu	chatting	0	3	0	3
+hindu	chemist	0	3	0	3
+hindu	chess player	0	3	0	3
+hindu	chief	0	3	0	3
+hindu	cobbler	0	3	0	3
+hindu	computer science	0	3	0	3
+hindu	criminal	0	3	0	3
+hindu	designer	0	3	0	3
+hindu	vegan	3	3	0	6
+hindu	delivery man	0	3	0	3
+hindu	dumb	0	3	0	3
+hindu	english	0	3	0	3
+hindu	frail	0	3	0	3
+hindu	handball player	0	3	0	3
+hindu	hated	0	3	0	3
+hindu	helpless	0	3	0	3
+hindu	illiterate	0	3	0	3
+hindu	kind	0	3	0	3
+hindu	labourer	0	3	0	3
+hindu	land owner	0	3	0	3
+hindu	librarian	0	3	0	3
+hindu	lowly	0	3	0	3
+hindu	mathematician	0	3	0	3
+hindu	mover	0	3	0	3
+hindu	opera singer	0	3	0	3
+hindu	oppressive	0	3	0	3
+hindu	photographer	0	3	0	3
+hindu	physician	0	3	0	3
+hindu	pianist	0	3	0	3
+hindu	powerless	0	3	0	3
+hindu	rapist	0	2	1	3
+hindu	vegetarian	3	3	0	6
+hindu	ruthless	0	3	0	3
+hindu	sheriff	0	3	0	3
+hindu	smelly	0	3	0	3
+hindu	statistics	0	2	1	3
+hindu	swimmer	0	3	0	3
+hindu	tailor	0	3	0	3
+hindu	tasteless	0	3	0	3
+hindu	terrorist	0	3	0	3
+hindu	ugly	0	3	0	3
+hindu	umpire	0	3	0	3
+hindu	unclean	0	3	0	3
+hindu	uneducated	0	3	0	3
+hindu	unhygienic	0	3	0	3
+hindu	violent	0	3	0	3
+hindu	weak	0	3	0	3
+hindu	wretched	0	3	0	3
+jain	academic	2	1	3	6
+jain	accountant	2	4	0	6
+jain	art	2	1	3	6
+jain	businessperson	2	4	0	6
+jain	designer	2	4	0	6
+jain	enterpreneur	2	4	0	6
+jain	fashion designer	2	4	0	6
+jain	home maker	2	4	0	6
+jain	pandit	4	2	0	6
+jain	middle class	2	4	0	6
+jain	vegan	5	1	0	6
+jain	vegetarian	5	1	0	6
+jain	musician	2	4	0	6
+jain	actor	1	2	0	3
+jain	artist	1	2	0	3
+jain	assistant	1	2	0	3
+jain	beautiful	1	2	0	3
+jain	brave	1	2	0	3
+jain	caring	1	2	0	3
+jain	chemist	1	2	0	3
+jain	civil servant	1	2	0	3
+jain	successful	2	1	3	6
+jain	clerk	1	1	1	3
+jain	cooking	1	2	0	3
+jain	diplomat	1	2	0	3
+jain	educated	1	2	0	3
+jain	emotional	1	2	0	3
+jain	engineer	1	2	0	3
+jain	factory worker	1	1	1	3
+jain	fancy	1	2	0	3
+jain	guitarist	1	2	0	3
+jain	handyman	1	2	0	3
+jain	hated	1	2	0	3
+jain	helpless	1	2	0	3
+jain	humanities	1	2	0	3
+jain	interior designer	1	2	0	3
+jain	journalist	1	2	0	3
+jain	kind	1	2	0	3
+jain	land owner	1	2	0	3
+jain	lowly	1	2	0	3
+jain	manager	1	2	0	3
+jain	aggressive	0	3	0	3
+jain	performing artist	1	2	0	3
+jain	phamacist	1	2	0	3
+jain	analyst	0	3	0	3
+jain	angry	0	3	0	3
+jain	physician	1	2	0	3
+jain	poet	1	2	0	3
+jain	powerless	1	2	0	3
+jain	protective	1	2	0	3
+jain	architect	0	3	0	3
+jain	army	0	3	0	3
+jain	rich	1	2	0	3
+jain	astronaut	0	3	0	3
+jain	athlete	0	3	0	3
+jain	attorney	0	3	0	3
+jain	smart	1	2	0	3
+jain	auditor	0	3	0	3
+jain	strong	1	2	0	3
+jain	thin	1	1	1	3
+jain	author	0	3	0	3
+jain	babysitter	0	3	0	3
+jain	baker	0	3	0	3
+jain	wretched	1	2	0	3
+jain	ballet dancer	0	3	0	3
+jain	banker	0	3	0	3
+jain	barber	0	3	0	3
+jain	bartender	0	3	0	3
+jain	beaurocrat	0	3	0	3
+jain	biology	0	3	0	3
+jain	blacksmith	0	3	0	3
+jain	boxer	0	3	0	3
+jain	breadwinning	0	3	0	3
+jain	broker	0	3	0	3
+jain	business	0	3	0	3
+jain	butcher	0	3	0	3
+jain	calm	0	3	0	3
+jain	caregiving	0	3	0	3
+jain	carpenter	0	3	0	3
+jain	cashier	0	3	0	3
+jain	ceo	0	3	0	3
+jain	chatting	0	3	0	3
+jain	chef	0	3	0	3
+jain	chemistry	0	3	0	3
+jain	chess player	0	0	0	0
+jain	chief	0	3	0	3
+jain	cleaner	0	3	0	3
+jain	cleaning	0	3	0	3
+jain	coach	0	3	0	3
+jain	cobbler	0	2	1	3
+jain	comedian	0	3	0	3
+jain	commander	0	3	0	3
+jain	composer	0	3	0	3
+jain	computer science	0	3	0	3
+jain	construction worker	0	2	1	3
+jain	consultant	0	3	0	3
+jain	counselor	0	3	0	3
+jain	courageous	0	3	0	3
+jain	cricketer	0	3	0	3
+jain	criminal	0	3	0	3
+jain	dance	0	3	0	3
+jain	dancer	0	3	0	3
+jain	dentist	0	3	0	3
+jain	detective	0	3	0	3
+jain	delivery man	0	3	0	3
+jain	director	0	3	0	3
+jain	doctor	0	2	1	3
+jain	driverchauffeur	0	3	0	3
+jain	dumb	0	3	0	3
+jain	economist	0	3	0	3
+jain	editor	0	3	0	3
+jain	electrician	0	3	0	3
+jain	electronics	0	3	0	3
+jain	english	0	3	0	3
+jain	farmer	0	3	0	3
+jain	fat	0	3	0	3
+jain	film maker	0	3	0	3
+jain	finance	0	2	1	3
+jain	fire fighter	0	3	0	3
+jain	firefighter	0	3	0	3
+jain	fisherman	0	3	0	3
+jain	flight attendant	0	3	0	3
+jain	football player	0	3	0	3
+jain	frail	0	3	0	3
+jain	gardener	0	3	0	3
+jain	goldsmith	0	3	0	3
+jain	golfer	0	3	0	3
+jain	guard	0	3	0	3
+jain	handball player	0	3	0	3
+jain	handsome	0	3	0	3
+jain	historian	0	3	0	3
+jain	history	0	3	0	3
+jain	illiterate	0	3	0	3
+jain	illustrator	0	3	0	3
+jain	janitor	0	3	0	3
+jain	judge	0	3	0	3
+jain	labourer	0	3	0	3
+jain	law	0	3	0	3
+jain	lawyer	0	3	0	3
+jain	librarian	0	3	0	3
+jain	lifegaurd	0	3	0	3
+jain	linguist	0	3	0	3
+jain	management	0	3	0	3
+jain	mathematician	0	3	0	3
+jain	maths	0	3	0	3
+jain	mechanic	0	3	0	3
+jain	minister	0	3	0	3
+jain	model	0	3	0	3
+jain	mover	0	2	1	3
+jain	music	0	3	0	3
+jain	nonvegetarian	0	3	0	3
+jain	nurse	0	3	0	3
+jain	opera singer	0	3	0	3
+jain	oppressive	0	3	0	3
+jain	painter	0	3	0	3
+jain	pensioner	0	3	0	3
+jain	photographer	0	3	0	3
+jain	physicist	0	3	0	3
+jain	physics	0	3	0	3
+jain	pianist	0	3	0	3
+jain	pilot	0	3	0	3
+jain	plumber	0	3	0	3
+jain	police	0	3	0	3
+jain	policeman	0	3	0	3
+jain	politician	0	3	0	3
+jain	politics	0	3	0	3
+jain	poor	0	3	0	3
+jain	powerful	0	3	0	3
+jain	priest	0	3	0	3
+jain	producer	0	3	0	3
+jain	professor	0	3	0	3
+jain	prosecuter	0	3	0	3
+jain	psychologist	0	3	0	3
+jain	rapist	0	3	0	3
+jain	realestate developer	0	3	0	3
+jain	realtor	0	2	1	3
+jain	receptionist	0	3	0	3
+jain	respected	0	3	0	3
+jain	restaurateur	0	3	0	3
+jain	ruthless	0	3	0	3
+jain	salesperson	0	3	0	3
+jain	science	0	3	0	3
+jain	scientist	0	3	0	3
+jain	secretary	0	3	0	3
+jain	security gaurd	0	3	0	3
+jain	sheriff	0	3	0	3
+jain	shopping	0	3	0	3
+jain	singer	0	3	0	3
+jain	smelly	0	3	0	3
+jain	sociologist	0	3	0	3
+jain	software developer	0	3	0	3
+jain	soldier	0	3	0	3
+jain	spicy	0	3	0	3
+jain	statistics	0	3	0	3
+jain	supervisor	0	3	0	3
+jain	swimmer	0	3	0	3
+jain	tailor	0	3	0	3
+jain	tasteless	0	2	1	3
+jain	teacher	0	3	0	3
+jain	technology	0	3	0	3
+jain	tennis player	0	3	0	3
+jain	terrorist	0	3	0	3
+jain	theologian	0	3	0	3
+jain	travelling	0	3	0	3
+jain	treasurer	0	3	0	3
+jain	ugly	0	3	0	3
+jain	umpire	0	2	1	3
+jain	unclean	0	3	0	3
+jain	uneducated	0	3	0	3
+jain	unhygienic	0	3	0	3
+jain	violent	0	3	0	3
+jain	waiter	0	3	0	3
+jain	washerman	0	3	0	3
+jain	weak	0	3	0	3
+jain	wedding planner	0	3	0	3
+jain	writer	0	3	0	3
+muslim	aggressive	2	1	3	6
+muslim	angry	2	1	3	6
+muslim	athlete	2	4	0	6
+muslim	babysitter	2	4	0	6
+muslim	artist	3	3	0	6
+muslim	blacksmith	2	4	0	6
+muslim	brave	2	1	3	6
+muslim	broker	2	4	0	6
+muslim	businessperson	2	4	0	6
+muslim	butcher	5	1	0	6
+muslim	carpenter	2	4	0	6
+muslim	beautiful	3	0	3	6
+muslim	chief	2	4	0	6
+muslim	cleaner	2	3	1	6
+muslim	coach	2	4	0	6
+muslim	chef	3	3	0	6
+muslim	cooking	2	2	2	6
+muslim	courageous	2	1	3	6
+muslim	criminal	2	3	1	6
+muslim	dancer	2	4	0	6
+muslim	construction worker	3	3	0	6
+muslim	academic	1	2	0	3
+muslim	actor	1	2	0	3
+muslim	fancy	2	1	3	6
+muslim	fashion designer	2	4	0	6
+muslim	fire fighter	2	4	0	6
+muslim	analyst	1	2	0	3
+muslim	architect	1	2	0	3
+muslim	gardener	2	4	0	6
+muslim	goldsmith	2	4	0	6
+muslim	art	1	2	0	3
+muslim	auditor	1	2	0	3
+muslim	author	1	2	0	3
+muslim	baker	1	2	0	3
+muslim	barber	1	2	0	3
+muslim	beaurocrat	1	2	0	3
+muslim	history	2	1	3	6
+muslim	home maker	2	4	0	6
+muslim	humanities	2	1	3	6
+muslim	boxer	1	2	0	3
+muslim	breadwinning	1	2	0	3
+muslim	business	1	2	0	3
+muslim	caregiving	1	2	0	3
+muslim	chemist	1	2	0	3
+muslim	civil servant	1	2	0	3
+muslim	kind	2	1	3	6
+muslim	cleaning	1	2	0	3
+muslim	clerk	1	2	0	3
+muslim	composer	1	2	0	3
+muslim	librarian	2	4	0	6
+muslim	linguist	2	4	0	6
+muslim	lowly	2	1	3	6
+muslim	computer science	1	2	0	3
+muslim	cricketer	1	2	0	3
+muslim	dance	1	2	0	3
+muslim	dentist	1	2	0	3
+muslim	detective	1	2	0	3
+muslim	middle class	2	4	0	6
+muslim	director	1	2	0	3
+muslim	economist	1	2	0	3
+muslim	music	2	1	3	6
+muslim	educated	1	2	0	3
+muslim	nonvegetarian	5	1	0	6
+muslim	electrician	1	2	0	3
+muslim	english	1	2	0	3
+muslim	enterpreneur	1	2	0	3
+muslim	factory worker	1	2	0	3
+muslim	firefighter	1	2	0	3
+muslim	photographer	2	4	0	6
+muslim	flight attendant	1	2	0	3
+muslim	golfer	1	2	0	3
+muslim	poet	2	4	0	6
+muslim	guard	1	2	0	3
+muslim	handsome	1	2	0	3
+muslim	politics	2	1	3	6
+muslim	designer	3	3	0	6
+muslim	producer	2	4	0	6
+muslim	handyman	1	2	0	3
+muslim	hated	1	2	0	3
+muslim	protective	2	1	3	6
+muslim	psychologist	2	4	0	6
+muslim	historian	1	2	0	3
+muslim	illiterate	1	2	0	3
+muslim	illustrator	1	2	0	3
+muslim	powerful	3	0	3	6
+muslim	rich	2	1	3	6
+muslim	salesperson	2	4	0	6
+muslim	interior designer	1	2	0	3
+muslim	scientist	2	4	0	6
+muslim	secretary	2	4	0	6
+muslim	janitor	1	2	0	3
+muslim	shopping	2	1	3	6
+muslim	singer	2	4	0	6
+muslim	smart	2	1	3	6
+muslim	journalist	1	2	0	3
+muslim	soldier	2	4	0	6
+muslim	judge	1	2	0	3
+muslim	restaurateur	3	3	0	6
+muslim	labourer	1	2	0	3
+muslim	strong	3	0	3	6
+muslim	teacher	2	4	0	6
+muslim	land owner	1	2	0	3
+muslim	lawyer	1	2	0	3
+muslim	tailor	3	3	0	6
+muslim	management	1	2	0	3
+muslim	manager	1	2	0	3
+muslim	mathematician	1	2	0	3
+muslim	maths	1	2	0	3
+muslim	mechanic	1	2	0	3
+muslim	violent	2	1	3	6
+muslim	minister	1	2	0	3
+muslim	model	1	2	0	3
+muslim	musician	1	2	0	3
+muslim	writer	2	4	0	6
+muslim	opera singer	1	2	0	3
+muslim	oppressive	1	2	0	3
+muslim	pensioner	1	2	0	3
+muslim	performing artist	1	2	0	3
+muslim	phamacist	1	2	0	3
+muslim	physics	1	2	0	3
+muslim	pilot	1	2	0	3
+muslim	police	1	2	0	3
+muslim	politician	1	2	0	3
+muslim	professor	1	2	0	3
+muslim	prosecuter	1	2	0	3
+muslim	realestate developer	1	2	0	3
+muslim	realtor	1	2	0	3
+muslim	receptionist	1	2	0	3
+muslim	science	1	2	0	3
+muslim	accountant	0	3	0	3
+muslim	army	0	3	0	3
+muslim	assistant	0	3	0	3
+muslim	astronaut	0	3	0	3
+muslim	attorney	0	3	0	3
+muslim	ballet dancer	0	3	0	3
+muslim	banker	0	3	0	3
+muslim	bartender	0	3	0	3
+muslim	biology	0	3	0	3
+muslim	calm	0	3	0	3
+muslim	caring	0	3	0	3
+muslim	cashier	0	3	0	3
+muslim	ceo	0	3	0	3
+muslim	chatting	0	3	0	3
+muslim	chemistry	0	3	0	3
+muslim	chess player	0	0	0	0
+muslim	cobbler	0	3	0	3
+muslim	comedian	0	3	0	3
+muslim	commander	0	3	0	3
+muslim	consultant	0	3	0	3
+muslim	counselor	0	3	0	3
+muslim	delivery man	0	3	0	3
+muslim	diplomat	0	3	0	3
+muslim	doctor	0	3	0	3
+muslim	driverchauffeur	0	3	0	3
+muslim	dumb	0	3	0	3
+muslim	editor	0	3	0	3
+muslim	electronics	0	3	0	3
+muslim	emotional	0	3	0	3
+muslim	engineer	0	3	0	3
+muslim	farmer	0	3	0	3
+muslim	fat	0	3	0	3
+muslim	sheriff	1	2	0	3
+muslim	software developer	1	2	0	3
+muslim	film maker	0	3	0	3
+muslim	finance	0	3	0	3
+muslim	spicy	1	2	0	3
+muslim	successful	1	2	0	3
+muslim	fisherman	0	3	0	3
+muslim	football player	0	3	0	3
+muslim	technology	1	2	0	3
+muslim	frail	0	3	0	3
+muslim	tennis player	1	1	1	3
+muslim	guitarist	0	3	0	3
+muslim	handball player	0	3	0	3
+muslim	helpless	0	3	0	3
+muslim	law	0	3	0	3
+muslim	lifegaurd	0	3	0	3
+muslim	mover	0	3	0	3
+muslim	nurse	0	3	0	3
+muslim	painter	0	3	0	3
+muslim	pandit	0	3	0	3
+muslim	physician	0	3	0	3
+muslim	thin	1	2	0	3
+muslim	physicist	0	3	0	3
+muslim	pianist	0	3	0	3
+muslim	plumber	0	3	0	3
+muslim	policeman	0	3	0	3
+muslim	poor	0	3	0	3
+muslim	powerless	0	3	0	3
+muslim	priest	0	3	0	3
+muslim	rapist	0	3	0	3
+muslim	travelling	1	2	0	3
+muslim	treasurer	1	2	0	3
+muslim	respected	0	3	0	3
+muslim	terrorist	3	1	2	6
+muslim	ruthless	0	3	0	3
+muslim	security gaurd	0	3	0	3
+muslim	smelly	0	3	0	3
+muslim	sociologist	0	2	1	3
+muslim	statistics	0	3	0	3
+muslim	supervisor	0	3	0	3
+muslim	swimmer	0	3	0	3
+muslim	tasteless	0	3	0	3
+muslim	theologian	0	2	1	3
+muslim	ugly	0	3	0	3
+muslim	umpire	1	2	0	3
+muslim	unclean	1	2	0	3
+muslim	waiter	1	2	0	3
+muslim	washerman	1	2	0	3
+muslim	uneducated	0	3	0	3
+muslim	unhygienic	0	3	0	3
+muslim	wedding planner	1	2	0	3
+muslim	vegan	0	3	0	3
+muslim	vegetarian	0	3	0	3
+muslim	weak	0	3	0	3
+muslim	wretched	0	3	0	3
+sikh	academic	0	3	0	3
+sikh	accountant	1	2	0	3
+sikh	actor	0	3	0	3
+sikh	aggressive	1	2	0	3
+sikh	analyst	0	3	0	3
+sikh	angry	3	0	3	6
+sikh	architect	2	4	0	6
+sikh	army	1	2	0	3
+sikh	art	1	2	0	3
+sikh	artist	2	4	0	6
+sikh	assistant	1	2	0	3
+sikh	astronaut	0	3	0	3
+sikh	athlete	2	4	0	6
+sikh	attorney	0	3	0	3
+sikh	auditor	0	3	0	3
+sikh	author	0	3	0	3
+sikh	babysitter	0	3	0	3
+sikh	baker	0	3	0	3
+sikh	ballet dancer	0	3	0	3
+sikh	banker	0	3	0	3
+sikh	barber	0	3	0	3
+sikh	bartender	1	2	0	3
+sikh	beaurocrat	1	2	0	3
+sikh	beautiful	2	1	3	6
+sikh	biology	0	3	0	3
+sikh	blacksmith	0	3	0	3
+sikh	boxer	2	4	0	6
+sikh	brave	2	1	3	6
+sikh	breadwinning	2	4	0	6
+sikh	broker	1	2	0	3
+sikh	business	2	3	1	6
+sikh	businessperson	3	3	0	6
+sikh	butcher	0	3	0	3
+sikh	calm	0	3	0	3
+sikh	caregiving	0	3	0	3
+sikh	caring	1	2	0	3
+sikh	carpenter	0	3	0	3
+sikh	cashier	1	2	0	3
+sikh	ceo	1	2	0	3
+sikh	chatting	0	3	0	3
+sikh	chef	1	2	0	3
+sikh	chemist	1	2	0	3
+sikh	chemistry	0	3	0	3
+sikh	chess player	0	0	0	0
+sikh	chief	1	2	0	3
+sikh	civil servant	0	3	0	3
+sikh	cleaner	0	3	0	3
+sikh	cleaning	0	3	0	3
+sikh	clerk	0	3	0	3
+sikh	coach	1	2	0	3
+sikh	cobbler	0	3	0	3
+sikh	comedian	1	2	0	3
+sikh	commander	0	3	0	3
+sikh	composer	1	2	0	3
+sikh	computer science	0	3	0	3
+sikh	construction worker	1	2	0	3
+sikh	consultant	0	3	0	3
+sikh	cooking	1	2	0	3
+sikh	counselor	0	3	0	3
+sikh	courageous	1	2	0	3
+sikh	cricketer	2	4	0	6
+sikh	criminal	1	2	0	3
+sikh	dance	2	1	3	6
+sikh	dancer	1	2	0	3
+sikh	dentist	1	2	0	3
+sikh	designer	0	3	0	3
+sikh	detective	0	3	0	3
+sikh	delivery man	1	2	0	3
+sikh	diplomat	1	2	0	3
+sikh	director	1	2	0	3
+sikh	doctor	0	3	0	3
+sikh	driverchauffeur	0	3	0	3
+sikh	dumb	0	3	0	3
+sikh	economist	0	3	0	3
+sikh	editor	0	3	0	3
+sikh	educated	1	2	0	3
+sikh	electrician	1	2	0	3
+sikh	electronics	0	3	0	3
+sikh	emotional	0	3	0	3
+sikh	engineer	1	2	0	3
+sikh	english	1	2	0	3
+sikh	enterpreneur	1	2	0	3
+sikh	factory worker	2	4	0	6
+sikh	fancy	1	2	0	3
+sikh	farmer	1	2	0	3
+sikh	fashion designer	1	2	0	3
+sikh	fat	2	1	3	6
+sikh	film maker	0	3	0	3
+sikh	finance	1	1	1	3
+sikh	fire fighter	1	2	0	3
+sikh	firefighter	1	2	0	3
+sikh	fisherman	0	3	0	3
+sikh	flight attendant	0	3	0	3
+sikh	football player	0	3	0	3
+sikh	frail	0	3	0	3
+sikh	gardener	1	2	0	3
+sikh	goldsmith	0	3	0	3
+sikh	golfer	1	2	0	3
+sikh	guard	1	2	0	3
+sikh	guitarist	0	3	0	3
+sikh	handball player	0	3	0	3
+sikh	handsome	0	3	0	3
+sikh	handyman	0	3	0	3
+sikh	hated	0	3	0	3
+sikh	helpless	0	3	0	3
+sikh	historian	0	3	0	3
+sikh	history	1	2	0	3
+sikh	home maker	2	4	0	6
+sikh	humanities	1	2	0	3
+sikh	illiterate	0	3	0	3
+sikh	illustrator	1	2	0	3
+sikh	interior designer	1	2	0	3
+sikh	janitor	1	2	0	3
+sikh	journalist	0	3	0	3
+sikh	judge	1	2	0	3
+sikh	kind	0	3	0	3
+sikh	labourer	0	3	0	3
+sikh	land owner	1	2	0	3
+sikh	law	0	3	0	3
+sikh	lawyer	1	2	0	3
+sikh	librarian	0	3	0	3
+sikh	lifegaurd	1	2	0	3
+sikh	linguist	1	2	0	3
+sikh	lowly	0	3	0	3
+sikh	management	2	1	3	6
+sikh	manager	2	4	0	6
+sikh	mathematician	0	3	0	3
+sikh	maths	0	3	0	3
+sikh	mechanic	0	3	0	3
+sikh	middle class	0	3	0	3
+sikh	minister	2	4	0	6
+sikh	model	0	3	0	3
+sikh	mover	1	2	0	3
+sikh	music	0	3	0	3
+sikh	musician	2	4	0	6
+sikh	nonvegetarian	2	4	0	6
+sikh	nurse	0	3	0	3
+sikh	opera singer	0	3	0	3
+sikh	oppressive	2	1	3	6
+sikh	painter	0	3	0	3
+sikh	pandit	0	3	0	3
+sikh	pensioner	1	2	0	3
+sikh	performing artist	0	3	0	3
+sikh	phamacist	0	3	0	3
+sikh	photographer	1	2	0	3
+sikh	physician	0	3	0	3
+sikh	physicist	0	3	0	3
+sikh	physics	0	3	0	3
+sikh	pianist	1	2	0	3
+sikh	pilot	0	3	0	3
+sikh	plumber	0	3	0	3
+sikh	poet	0	3	0	3
+sikh	police	1	2	0	3
+sikh	policeman	2	4	0	6
+sikh	politician	1	2	0	3
+sikh	politics	2	1	3	6
+sikh	poor	0	3	0	3
+sikh	powerful	1	2	0	3
+sikh	powerless	0	3	0	3
+sikh	priest	0	3	0	3
+sikh	producer	0	3	0	3
+sikh	professor	0	3	0	3
+sikh	prosecuter	0	3	0	3
+sikh	protective	2	1	3	6
+sikh	psychologist	0	3	0	3
+sikh	rapist	0	2	1	3
+sikh	realestate developer	0	3	0	3
+sikh	realtor	0	3	0	3
+sikh	receptionist	0	3	0	3
+sikh	respected	1	2	0	3
+sikh	restaurateur	1	2	0	3
+sikh	rich	1	2	0	3
+sikh	ruthless	0	3	0	3
+sikh	salesperson	1	2	0	3
+sikh	science	1	2	0	3
+sikh	scientist	0	3	0	3
+sikh	secretary	0	3	0	3
+sikh	security gaurd	1	2	0	3
+sikh	sheriff	1	2	0	3
+sikh	shopping	1	2	0	3
+sikh	singer	2	4	0	6
+sikh	smart	0	3	0	3
+sikh	smelly	0	3	0	3
+sikh	sociologist	0	3	0	3
+sikh	software developer	0	3	0	3
+sikh	soldier	3	3	0	6
+sikh	spicy	1	2	0	3
+sikh	statistics	0	3	0	3
+sikh	strong	2	1	3	6
+sikh	successful	1	2	0	3
+sikh	supervisor	1	2	0	3
+sikh	swimmer	0	3	0	3
+sikh	tailor	0	3	0	3
+sikh	tasteless	0	3	0	3
+sikh	teacher	0	3	0	3
+sikh	technology	0	3	0	3
+sikh	tennis player	1	2	0	3
+sikh	terrorist	0	3	0	3
+sikh	theologian	0	3	0	3
+sikh	thin	0	3	0	3
+sikh	travelling	0	3	0	3
+sikh	treasurer	0	3	0	3
+sikh	ugly	0	3	0	3
+sikh	umpire	0	2	1	3
+sikh	unclean	0	3	0	3
+sikh	uneducated	0	3	0	3
+sikh	unhygienic	0	3	0	3
+sikh	vegan	0	3	0	3
+sikh	vegetarian	0	3	0	3
+sikh	violent	3	0	3	6
+sikh	waiter	1	2	0	3
+sikh	washerman	0	3	0	3
+sikh	weak	0	3	0	3
+sikh	wedding planner	0	3	0	3
+sikh	wretched	0	3	0	3
+sikh	writer	1	2	0	3

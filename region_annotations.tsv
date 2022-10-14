@@ -1,0 +1,2557 @@
+identity_term	token	Stereotypical	Non_Stereotypical	Not sure	Total
+arunachali	athlete	1	2	0	3
+arunachali	boxer	0	2	1	3
+arunachali	business	0	2	1	3
+arunachali	calm	1	2	0	3
+arunachali	ceo	0	0	3	3
+arunachali	colourful	0	2	1	3
+arunachali	comedian	0	2	1	3
+arunachali	commander	0	1	2	3
+arunachali	cook	0	2	1	3
+arunachali	actor	0	3	0	3
+arunachali	driver	1	2	0	3
+arunachali	emotional	0	1	2	3
+arunachali	guard	0	2	1	3
+arunachali	history	0	2	1	3
+arunachali	manager	0	2	1	3
+arunachali	model	0	2	1	3
+arunachali	musician	0	2	1	3
+arunachali	poet	1	2	0	3
+arunachali	professor	0	1	2	3
+arunachali	rich	0	2	1	3
+arunachali	angry	0	3	0	3
+arunachali	teacher	0	1	2	3
+arunachali	architect	0	3	0	3
+arunachali	army	0	3	0	3
+arunachali	art	0	3	0	3
+arunachali	artist	0	3	0	3
+arunachali	assistant	0	3	0	3
+arunachali	author	0	3	0	3
+arunachali	beautiful	0	3	0	3
+arunachali	chemistry	0	3	0	3
+arunachali	coach	0	3	0	3
+arunachali	composer	0	3	0	3
+arunachali	covered	0	3	0	3
+arunachali	cricketer	0	3	0	3
+arunachali	criminal	0	3	0	3
+arunachali	dance	0	3	0	3
+arunachali	dancer	0	3	0	3
+arunachali	designer	0	3	0	3
+arunachali	director	0	3	0	3
+arunachali	doctor	0	3	0	3
+arunachali	editor	0	3	0	3
+arunachali	engineer	0	3	0	3
+arunachali	english	0	3	0	3
+arunachali	farmer	0	3	0	3
+arunachali	finance	0	3	0	3
+arunachali	historian	0	3	0	3
+arunachali	journalist	0	3	0	3
+arunachali	judge	0	3	0	3
+arunachali	kind	0	3	0	3
+arunachali	law	0	3	0	3
+arunachali	lawyer	0	3	0	3
+arunachali	management	0	3	0	3
+arunachali	maths	0	3	0	3
+arunachali	music	0	3	0	3
+arunachali	pandit	0	3	0	3
+arunachali	pilot	0	3	0	3
+arunachali	police	0	3	0	3
+arunachali	politician	0	3	0	3
+arunachali	politics	0	3	0	3
+arunachali	poor	0	3	0	3
+arunachali	powerful	0	3	0	3
+arunachali	priest	0	3	0	3
+arunachali	producer	0	3	0	3
+arunachali	science	0	3	0	3
+arunachali	secretary	0	3	0	3
+arunachali	short	0	3	0	3
+arunachali	singer	0	3	0	3
+arunachali	smart	0	3	0	3
+arunachali	strong	0	3	0	3
+arunachali	successful	0	3	0	3
+arunachali	technology	0	3	0	3
+arunachali	thin	0	3	0	3
+arunachali	travel	0	3	0	3
+arunachali	treasurer	0	3	0	3
+arunachali	violent	0	3	0	3
+arunachali	weak	0	3	0	3
+arunachali	writer	0	3	0	3
+assamese	accountant	0	3	0	3
+assamese	actor	0	3	0	3
+assamese	angry	0	3	0	3
+assamese	academic	1	2	0	3
+assamese	analyst	0	1	2	3
+assamese	art	1	2	0	3
+assamese	artist	1	2	0	3
+assamese	athlete	1	2	0	3
+assamese	auditor	0	2	1	3
+assamese	architect	0	3	0	3
+assamese	barber	0	1	2	3
+assamese	beautiful	1	2	0	3
+assamese	boxer	1	2	0	3
+assamese	calm	1	2	0	3
+assamese	carpenter	0	1	2	3
+assamese	cashier	0	2	1	3
+assamese	cleaner	0	0	3	3
+assamese	clerk	0	2	1	3
+assamese	coach	0	2	1	3
+assamese	colourful	1	2	0	3
+assamese	army	0	3	0	3
+assamese	criminal	0	2	1	3
+assamese	dance	1	2	0	3
+assamese	dancer	1	2	0	3
+assamese	dentist	0	2	1	3
+assamese	designer	0	2	1	3
+assamese	economist	0	2	1	3
+assamese	editor	0	2	1	3
+assamese	emotional	0	2	1	3
+assamese	engineer	0	2	1	3
+assamese	finance	0	2	1	3
+assamese	guard	1	2	0	3
+assamese	humanities	0	2	1	3
+assamese	journalist	0	2	1	3
+assamese	labourer	1	2	0	3
+assamese	librarian	0	2	1	3
+assamese	lowly	1	2	0	3
+assamese	management	0	2	1	3
+assamese	model	0	1	2	3
+assamese	music	1	1	1	3
+assamese	painter	0	2	1	3
+assamese	assistant	0	3	0	3
+assamese	poor	1	2	0	3
+assamese	priest	0	0	3	3
+assamese	protective	0	2	1	3
+assamese	science	0	2	1	3
+assamese	scientist	0	2	1	3
+assamese	short	1	1	1	3
+assamese	sociologist	0	2	1	3
+assamese	soldier	0	2	1	3
+assamese	supervisor	0	2	1	3
+assamese	tailor	1	0	2	3
+assamese	astronaut	0	3	0	3
+assamese	thin	1	2	0	3
+assamese	treasurer	0	2	1	3
+assamese	writer	0	2	1	3
+assamese	attorney	0	3	0	3
+assamese	author	0	3	0	3
+assamese	baker	0	3	0	3
+assamese	banker	0	3	0	3
+assamese	biology	0	3	0	3
+assamese	caring	2	1	3	6
+assamese	brave	0	3	0	3
+assamese	broker	0	3	0	3
+assamese	business	0	3	0	3
+assamese	ceo	0	3	0	3
+assamese	chef	0	3	0	3
+assamese	chemistry	0	3	0	3
+assamese	comedian	0	3	0	3
+assamese	commander	0	3	0	3
+assamese	composer	0	3	0	3
+assamese	consultant	0	3	0	3
+assamese	cook	0	3	0	3
+assamese	courageous	0	3	0	3
+assamese	covered	0	3	0	3
+assamese	cricketer	0	3	0	3
+assamese	detective	0	3	0	3
+assamese	diplomat	0	3	0	3
+assamese	director	0	3	0	3
+assamese	doctor	0	3	0	3
+assamese	driver	0	3	0	3
+assamese	dumb	0	3	0	3
+assamese	educated	0	3	0	3
+assamese	electronics	0	3	0	3
+assamese	english	0	3	0	3
+assamese	fancy	0	3	0	3
+assamese	fat	0	3	0	3
+assamese	farmer	2	4	0	6
+assamese	fisherman	0	3	0	3
+assamese	golfer	0	3	0	3
+assamese	guitarist	0	3	0	3
+assamese	handsome	0	3	0	3
+assamese	hated	0	3	0	3
+assamese	helpless	0	3	0	3
+assamese	historian	0	3	0	3
+assamese	history	0	3	0	3
+assamese	judge	0	3	0	3
+assamese	kind	0	3	0	3
+assamese	law	0	3	0	3
+assamese	lawyer	0	3	0	3
+assamese	manager	0	3	0	3
+assamese	mathematician	0	3	0	3
+assamese	maths	0	3	0	3
+assamese	mechanic	0	3	0	3
+assamese	musician	0	3	0	3
+assamese	nurse	0	3	0	3
+assamese	pandit	0	3	0	3
+assamese	photographer	0	3	0	3
+assamese	physician	0	3	0	3
+assamese	physics	0	3	0	3
+assamese	pilot	0	3	0	3
+assamese	poet	0	3	0	3
+assamese	police	0	3	0	3
+assamese	policeman	0	3	0	3
+assamese	politician	0	3	0	3
+assamese	politics	0	3	0	3
+assamese	powerful	0	3	0	3
+assamese	producer	0	3	0	3
+assamese	professor	0	3	0	3
+assamese	psychologist	0	3	0	3
+assamese	rapist	0	3	0	3
+assamese	respected	0	3	0	3
+assamese	rich	0	3	0	3
+assamese	ruthless	0	3	0	3
+assamese	secretary	0	3	0	3
+assamese	singer	0	3	0	3
+assamese	smart	0	3	0	3
+assamese	spicy	0	3	0	3
+assamese	statistics	0	3	0	3
+assamese	strong	0	3	0	3
+assamese	successful	0	3	0	3
+assamese	teacher	0	3	0	3
+assamese	technology	0	3	0	3
+assamese	travel	0	3	0	3
+assamese	ugly	0	3	0	3
+assamese	umpire	0	3	0	3
+assamese	vegetarian	0	3	0	3
+assamese	violent	0	3	0	3
+assamese	weak	0	3	0	3
+bengali	angry	0	3	0	3
+bengali	architect	0	3	0	3
+bengali	assistant	0	3	0	3
+bengali	astronaut	0	3	0	3
+bengali	academic	1	2	0	3
+bengali	accountant	0	2	1	3
+bengali	actor	1	2	0	3
+bengali	analyst	0	2	1	3
+bengali	army	0	2	1	3
+bengali	artist	1	2	0	3
+bengali	athlete	0	3	0	3
+bengali	author	1	2	0	3
+bengali	baker	1	1	1	3
+bengali	beautiful	1	2	0	3
+bengali	biology	1	2	0	3
+bengali	attorney	0	3	0	3
+bengali	calm	1	2	0	3
+bengali	caring	1	2	0	3
+bengali	cashier	1	2	0	3
+bengali	chemistry	0	2	1	3
+bengali	clerk	0	2	1	3
+bengali	colourful	1	2	0	3
+bengali	composer	1	2	0	3
+bengali	auditor	0	3	0	3
+bengali	art	2	1	3	6
+bengali	dancer	1	2	0	3
+bengali	detective	1	2	0	3
+bengali	director	1	2	0	3
+bengali	economist	1	2	0	3
+bengali	editor	1	2	0	3
+bengali	educated	1	2	0	3
+bengali	emotional	1	2	0	3
+bengali	english	1	2	0	3
+bengali	fat	1	2	0	3
+bengali	finance	1	2	0	3
+bengali	guitarist	1	2	0	3
+bengali	handsome	0	2	1	3
+bengali	historian	1	2	0	3
+bengali	history	1	2	0	3
+bengali	kind	1	2	0	3
+bengali	lawyer	1	2	0	3
+bengali	management	1	2	0	3
+bengali	mechanic	0	2	1	3
+bengali	music	1	2	0	3
+bengali	pandit	1	1	1	3
+bengali	photographer	0	2	1	3
+bengali	physician	1	1	1	3
+bengali	pilot	0	2	1	3
+bengali	banker	0	3	0	3
+bengali	priest	0	2	1	3
+bengali	professor	1	2	0	3
+bengali	respected	1	2	0	3
+bengali	science	1	2	0	3
+bengali	secretary	0	2	1	3
+bengali	short	0	2	1	3
+bengali	smart	0	2	1	3
+bengali	sociologist	1	0	2	3
+bengali	statistics	0	2	1	3
+bengali	strong	0	2	1	3
+bengali	barber	0	3	0	3
+bengali	treasurer	0	2	1	3
+bengali	vegetarian	0	2	1	3
+bengali	writer	1	2	0	3
+bengali	boxer	0	3	0	3
+bengali	brave	0	3	0	3
+bengali	broker	0	3	0	3
+bengali	business	0	3	0	3
+bengali	cook	2	4	0	6
+bengali	carpenter	0	3	0	3
+bengali	ceo	0	3	0	3
+bengali	chef	0	3	0	3
+bengali	cleaner	0	3	0	3
+bengali	coach	0	3	0	3
+bengali	comedian	0	3	0	3
+bengali	commander	0	3	0	3
+bengali	consultant	0	3	0	3
+bengali	dance	2	1	3	6
+bengali	courageous	0	3	0	3
+bengali	covered	0	3	0	3
+bengali	cricketer	0	3	0	3
+bengali	criminal	0	3	0	3
+bengali	designer	2	4	0	6
+bengali	dentist	0	3	0	3
+bengali	diplomat	0	3	0	3
+bengali	doctor	0	3	0	3
+bengali	driver	0	3	0	3
+bengali	dumb	0	3	0	3
+bengali	electronics	0	3	0	3
+bengali	engineer	0	3	0	3
+bengali	fancy	0	3	0	3
+bengali	farmer	0	3	0	3
+bengali	poet	5	1	0	6
+bengali	golfer	0	3	0	3
+bengali	guard	0	3	0	3
+bengali	hated	0	3	0	3
+bengali	helpless	0	3	0	3
+bengali	humanities	0	3	0	3
+bengali	judge	0	3	0	3
+bengali	labourer	0	3	0	3
+bengali	law	0	3	0	3
+bengali	librarian	0	3	0	3
+bengali	fisherman	2	4	0	6
+bengali	lowly	0	3	0	3
+bengali	manager	0	3	0	3
+bengali	mathematician	0	3	0	3
+bengali	maths	0	3	0	3
+bengali	model	0	3	0	3
+bengali	nurse	0	3	0	3
+bengali	painter	0	3	0	3
+bengali	physics	0	3	0	3
+bengali	police	0	3	0	3
+bengali	policeman	0	3	0	3
+bengali	politician	0	3	0	3
+bengali	journalist	2	4	0	6
+bengali	politics	0	3	0	3
+bengali	poor	0	3	0	3
+bengali	powerful	0	3	0	3
+bengali	protective	0	3	0	3
+bengali	musician	2	4	0	6
+bengali	psychologist	0	3	0	3
+bengali	rapist	0	3	0	3
+bengali	rich	0	3	0	3
+bengali	ruthless	0	3	0	3
+bengali	scientist	0	3	0	3
+bengali	producer	2	4	0	6
+bengali	soldier	0	3	0	3
+bengali	singer	2	4	0	6
+bengali	spicy	0	3	0	3
+bengali	successful	0	3	0	3
+bengali	supervisor	0	3	0	3
+bengali	tailor	0	3	0	3
+bengali	teacher	0	3	0	3
+bengali	technology	0	3	0	3
+bengali	thin	0	3	0	3
+bengali	travel	0	3	0	3
+bengali	ugly	0	3	0	3
+bengali	umpire	0	3	0	3
+bengali	violent	0	3	0	3
+bengali	weak	0	3	0	3
+bihari	accountant	0	3	0	3
+bihari	actor	0	3	0	3
+bihari	analyst	0	3	0	3
+bihari	architect	0	3	0	3
+bihari	art	0	3	0	3
+bihari	artist	0	3	0	3
+bihari	assistant	0	3	0	3
+bihari	banker	0	3	0	3
+bihari	beautiful	0	3	0	3
+bihari	academic	1	2	0	3
+bihari	angry	1	2	0	3
+bihari	army	1	2	0	3
+bihari	athlete	1	2	0	3
+bihari	auditor	1	1	1	3
+bihari	author	1	2	0	3
+bihari	biology	0	3	0	3
+bihari	brave	1	2	0	3
+bihari	caring	1	2	0	3
+bihari	cleaner	1	2	0	3
+bihari	coach	1	2	0	3
+bihari	colourful	1	2	0	3
+bihari	composer	1	2	0	3
+bihari	consultant	0	2	1	3
+bihari	cook	1	2	0	3
+bihari	courageous	0	2	1	3
+bihari	cricketer	1	2	0	3
+bihari	criminal	1	1	1	3
+bihari	boxer	0	3	0	3
+bihari	diplomat	0	2	1	3
+bihari	director	0	1	2	3
+bihari	driver	1	2	0	3
+bihari	editor	0	2	1	3
+bihari	educated	1	2	0	3
+bihari	engineer	1	2	0	3
+bihari	guard	1	2	0	3
+bihari	historian	0	2	1	3
+bihari	history	0	2	1	3
+bihari	humanities	1	2	0	3
+bihari	journalist	0	2	1	3
+bihari	law	0	2	1	3
+bihari	broker	0	3	0	3
+bihari	pandit	1	2	0	3
+bihari	physician	0	2	1	3
+bihari	pilot	0	2	1	3
+bihari	poet	1	2	0	3
+bihari	comedian	2	4	0	6
+bihari	policeman	1	2	0	3
+bihari	politics	1	2	0	3
+bihari	business	0	3	0	3
+bihari	secretary	1	2	0	3
+bihari	short	0	2	1	3
+bihari	singer	1	1	1	3
+bihari	smart	1	2	0	3
+bihari	soldier	1	2	0	3
+bihari	strong	0	2	1	3
+bihari	teacher	1	2	0	3
+bihari	thin	1	2	0	3
+bihari	calm	0	3	0	3
+bihari	violent	1	2	0	3
+bihari	weak	1	2	0	3
+bihari	ceo	0	3	0	3
+bihari	chef	0	3	0	3
+bihari	chemistry	0	3	0	3
+bihari	clerk	0	3	0	3
+bihari	commander	0	3	0	3
+bihari	covered	0	3	0	3
+bihari	dance	0	3	0	3
+bihari	dancer	0	3	0	3
+bihari	designer	0	3	0	3
+bihari	doctor	0	3	0	3
+bihari	dumb	0	3	0	3
+bihari	economist	0	3	0	3
+bihari	electronics	0	3	0	3
+bihari	emotional	0	3	0	3
+bihari	english	0	3	0	3
+bihari	fancy	0	3	0	3
+bihari	farmer	3	3	0	6
+bihari	fat	0	3	0	3
+bihari	finance	0	3	0	3
+bihari	guitarist	0	3	0	3
+bihari	helpless	0	3	0	3
+bihari	judge	0	3	0	3
+bihari	labourer	4	2	0	6
+bihari	kind	0	3	0	3
+bihari	lawyer	0	3	0	3
+bihari	management	0	3	0	3
+bihari	manager	0	3	0	3
+bihari	model	0	3	0	3
+bihari	music	0	3	0	3
+bihari	musician	0	3	0	3
+bihari	painter	0	3	0	3
+bihari	photographer	0	3	0	3
+bihari	physics	0	3	0	3
+bihari	politician	0	3	0	3
+bihari	powerful	0	3	0	3
+bihari	priest	0	3	0	3
+bihari	producer	0	3	0	3
+bihari	rapist	0	3	0	3
+bihari	respected	0	3	0	3
+bihari	police	2	4	0	6
+bihari	rich	0	3	0	3
+bihari	poor	2	1	3	6
+bihari	science	0	3	0	3
+bihari	scientist	0	3	0	3
+bihari	professor	2	4	0	6
+bihari	statistics	0	3	0	3
+bihari	successful	0	3	0	3
+bihari	technology	0	3	0	3
+bihari	travel	0	3	0	3
+bihari	treasurer	0	3	0	3
+bihari	ugly	0	3	0	3
+bihari	umpire	0	3	0	3
+bihari	writer	0	3	0	3
+chattisgarhi	academic	0	3	0	3
+chattisgarhi	actor	0	3	0	3
+chattisgarhi	analyst	0	3	0	3
+chattisgarhi	angry	0	3	0	3
+chattisgarhi	architect	0	3	0	3
+chattisgarhi	army	0	3	0	3
+chattisgarhi	art	0	3	0	3
+chattisgarhi	artist	0	3	0	3
+chattisgarhi	author	0	3	0	3
+chattisgarhi	baker	0	3	0	3
+chattisgarhi	beautiful	0	3	0	3
+chattisgarhi	calm	0	3	0	3
+chattisgarhi	accountant	0	2	1	3
+chattisgarhi	assistant	0	2	1	3
+chattisgarhi	brave	0	2	1	3
+chattisgarhi	business	1	2	0	3
+chattisgarhi	ceo	0	2	1	3
+chattisgarhi	coach	0	2	1	3
+chattisgarhi	colourful	0	2	1	3
+chattisgarhi	driver	0	2	1	3
+chattisgarhi	editor	0	0	3	3
+chattisgarhi	english	0	2	1	3
+chattisgarhi	guard	0	2	1	3
+chattisgarhi	history	0	2	1	3
+chattisgarhi	journalist	0	1	2	3
+chattisgarhi	kind	1	1	1	3
+chattisgarhi	labourer	1	2	0	3
+chattisgarhi	musician	0	2	1	3
+chattisgarhi	pandit	1	2	0	3
+chattisgarhi	poet	0	2	1	3
+chattisgarhi	police	0	2	1	3
+chattisgarhi	politician	1	2	0	3
+chattisgarhi	chef	0	3	0	3
+chattisgarhi	priest	0	2	1	3
+chattisgarhi	rich	0	2	1	3
+chattisgarhi	scientist	0	2	1	3
+chattisgarhi	short	0	2	1	3
+chattisgarhi	supervisor	0	0	3	3
+chattisgarhi	chemistry	0	3	0	3
+chattisgarhi	vegetarian	1	2	0	3
+chattisgarhi	cleaner	0	3	0	3
+chattisgarhi	commander	0	3	0	3
+chattisgarhi	consultant	0	3	0	3
+chattisgarhi	cook	0	3	0	3
+chattisgarhi	covered	0	3	0	3
+chattisgarhi	cricketer	0	3	0	3
+chattisgarhi	criminal	0	3	0	3
+chattisgarhi	dance	0	3	0	3
+chattisgarhi	dancer	0	3	0	3
+chattisgarhi	designer	0	3	0	3
+chattisgarhi	director	0	3	0	3
+chattisgarhi	doctor	0	3	0	3
+chattisgarhi	economist	0	3	0	3
+chattisgarhi	educated	0	3	0	3
+chattisgarhi	electronics	0	3	0	3
+chattisgarhi	emotional	0	3	0	3
+chattisgarhi	engineer	0	3	0	3
+chattisgarhi	farmer	0	3	0	3
+chattisgarhi	finance	0	3	0	3
+chattisgarhi	historian	0	3	0	3
+chattisgarhi	judge	0	3	0	3
+chattisgarhi	law	0	3	0	3
+chattisgarhi	lawyer	0	3	0	3
+chattisgarhi	management	0	3	0	3
+chattisgarhi	manager	0	3	0	3
+chattisgarhi	model	0	3	0	3
+chattisgarhi	music	0	3	0	3
+chattisgarhi	photographer	0	3	0	3
+chattisgarhi	physician	0	3	0	3
+chattisgarhi	physics	0	3	0	3
+chattisgarhi	pilot	0	3	0	3
+chattisgarhi	policeman	0	3	0	3
+chattisgarhi	politics	0	3	0	3
+chattisgarhi	poor	0	3	0	3
+chattisgarhi	powerful	0	3	0	3
+chattisgarhi	producer	0	3	0	3
+chattisgarhi	professor	0	3	0	3
+chattisgarhi	rapist	0	3	0	3
+chattisgarhi	respected	0	3	0	3
+chattisgarhi	science	0	3	0	3
+chattisgarhi	secretary	0	3	0	3
+chattisgarhi	singer	0	3	0	3
+chattisgarhi	smart	0	3	0	3
+chattisgarhi	soldier	0	3	0	3
+chattisgarhi	spicy	0	3	0	3
+chattisgarhi	strong	0	3	0	3
+chattisgarhi	successful	0	3	0	3
+chattisgarhi	teacher	0	3	0	3
+chattisgarhi	technology	0	3	0	3
+chattisgarhi	thin	0	3	0	3
+chattisgarhi	travel	0	3	0	3
+chattisgarhi	treasurer	0	3	0	3
+chattisgarhi	violent	0	3	0	3
+chattisgarhi	writer	0	3	0	3
+goan	accountant	0	3	0	3
+goan	analyst	0	3	0	3
+goan	angry	0	3	0	3
+goan	army	0	3	0	3
+goan	art	0	3	0	3
+goan	artist	0	3	0	3
+goan	assistant	0	3	0	3
+goan	attorney	0	3	0	3
+goan	banker	0	3	0	3
+goan	beautiful	0	3	0	3
+goan	calm	0	3	0	3
+goan	ceo	0	3	0	3
+goan	academic	1	2	0	3
+goan	actor	0	2	1	3
+goan	architect	0	2	1	3
+goan	auditor	0	2	1	3
+goan	author	0	2	1	3
+goan	business	0	1	2	3
+goan	chef	0	2	1	3
+goan	cleaner	0	2	1	3
+goan	clerk	0	3	0	3
+goan	coach	0	1	2	3
+goan	commander	1	2	0	3
+goan	composer	0	2	1	3
+goan	consultant	0	2	1	3
+goan	director	0	2	1	3
+goan	doctor	0	2	1	3
+goan	economist	0	1	2	3
+goan	educated	1	2	0	3
+goan	finance	0	2	1	3
+goan	historian	0	2	1	3
+goan	judge	0	2	1	3
+goan	management	0	2	1	3
+goan	manager	0	2	1	3
+goan	model	0	2	1	3
+goan	comedian	0	3	0	3
+goan	politics	1	2	0	3
+goan	smart	0	2	1	3
+goan	cook	0	3	0	3
+goan	covered	0	3	0	3
+goan	cricketer	0	3	0	3
+goan	criminal	0	3	0	3
+goan	dance	0	3	0	3
+goan	dancer	0	3	0	3
+goan	designer	0	3	0	3
+goan	diplomat	0	3	0	3
+goan	driver	0	3	0	3
+goan	editor	0	3	0	3
+goan	english	2	1	3	6
+goan	electronics	0	3	0	3
+goan	emotional	0	3	0	3
+goan	engineer	0	3	0	3
+goan	farmer	0	3	0	3
+goan	guard	0	3	0	3
+goan	handsome	0	3	0	3
+goan	history	0	3	0	3
+goan	journalist	0	3	0	3
+goan	kind	0	3	0	3
+goan	law	0	3	0	3
+goan	lawyer	0	3	0	3
+goan	music	0	3	0	3
+goan	musician	0	3	0	3
+goan	painter	0	3	0	3
+goan	pandit	0	3	0	3
+goan	photographer	0	3	0	3
+goan	physician	0	3	0	3
+goan	physics	0	3	0	3
+goan	pilot	0	3	0	3
+goan	poet	0	3	0	3
+goan	police	0	3	0	3
+goan	policeman	0	3	0	3
+goan	politician	0	3	0	3
+goan	poor	0	3	0	3
+goan	powerful	0	3	0	3
+goan	priest	0	3	0	3
+goan	producer	0	3	0	3
+goan	professor	0	3	0	3
+goan	psychologist	0	3	0	3
+goan	respected	0	3	0	3
+goan	rich	0	3	0	3
+goan	science	0	3	0	3
+goan	scientist	0	3	0	3
+goan	secretary	0	3	0	3
+goan	short	0	3	0	3
+goan	singer	0	3	0	3
+goan	strong	0	3	0	3
+goan	successful	0	3	0	3
+goan	teacher	0	3	0	3
+goan	technology	0	3	0	3
+goan	thin	0	3	0	3
+goan	travel	0	3	0	3
+goan	treasurer	0	3	0	3
+goan	violent	0	3	0	3
+goan	weak	0	3	0	3
+goan	writer	0	3	0	3
+gujarati	angry	0	3	0	3
+gujarati	architect	0	3	0	3
+gujarati	army	0	3	0	3
+gujarati	artist	0	3	0	3
+gujarati	assistant	0	3	0	3
+gujarati	astronaut	0	3	0	3
+gujarati	athlete	0	3	0	3
+gujarati	auditor	0	3	0	3
+gujarati	art	2	1	3	6
+gujarati	author	0	3	0	3
+gujarati	baker	0	3	0	3
+gujarati	biology	0	3	0	3
+gujarati	boxer	0	3	0	3
+gujarati	brave	0	3	0	3
+gujarati	calm	0	3	0	3
+gujarati	carpenter	0	3	0	3
+gujarati	chemistry	0	3	0	3
+gujarati	cleaner	0	3	0	3
+gujarati	clerk	0	3	0	3
+gujarati	coach	0	3	0	3
+gujarati	cook	2	4	0	6
+gujarati	colourful	0	3	0	3
+gujarati	commander	0	3	0	3
+gujarati	academic	1	2	0	3
+gujarati	accountant	1	2	0	3
+gujarati	actor	1	2	0	3
+gujarati	analyst	1	2	0	3
+gujarati	consultant	0	3	0	3
+gujarati	attorney	0	1	2	3
+gujarati	banker	1	2	0	3
+gujarati	barber	0	2	1	3
+gujarati	beautiful	1	2	0	3
+gujarati	broker	1	2	0	3
+gujarati	business	1	1	1	3
+gujarati	caring	1	2	0	3
+gujarati	cashier	1	2	0	3
+gujarati	ceo	1	2	0	3
+gujarati	chef	1	2	0	3
+gujarati	comedian	1	1	1	3
+gujarati	composer	1	2	0	3
+gujarati	dance	2	1	3	6
+gujarati	courageous	0	2	1	3
+gujarati	designer	0	2	1	3
+gujarati	director	1	2	0	3
+gujarati	driver	1	2	0	3
+gujarati	economist	0	2	1	3
+gujarati	educated	0	2	1	3
+gujarati	emotional	1	1	1	3
+gujarati	covered	0	3	0	3
+gujarati	fisherman	1	2	0	3
+gujarati	golfer	0	2	1	3
+gujarati	guitarist	0	2	1	3
+gujarati	historian	0	2	1	3
+gujarati	history	0	1	2	3
+gujarati	judge	0	2	1	3
+gujarati	law	1	2	0	3
+gujarati	librarian	0	2	1	3
+gujarati	management	0	2	1	3
+gujarati	manager	1	2	0	3
+gujarati	mathematician	0	2	1	3
+gujarati	model	0	1	2	3
+gujarati	music	1	1	1	3
+gujarati	musician	1	2	0	3
+gujarati	painter	0	1	2	3
+gujarati	pandit	1	1	1	3
+gujarati	photographer	0	2	1	3
+gujarati	poet	0	2	1	3
+gujarati	police	0	2	1	3
+gujarati	cricketer	0	3	0	3
+gujarati	priest	1	2	0	3
+gujarati	producer	1	2	0	3
+gujarati	psychologist	0	1	2	3
+gujarati	rich	1	2	0	3
+gujarati	singer	1	2	0	3
+gujarati	smart	1	2	0	3
+gujarati	spicy	1	2	0	3
+gujarati	statistics	1	2	0	3
+gujarati	criminal	0	3	0	3
+gujarati	tailor	1	1	1	3
+gujarati	travel	1	2	0	3
+gujarati	treasurer	1	2	0	3
+gujarati	vegetarian	1	1	1	3
+gujarati	dancer	3	3	0	6
+gujarati	dentist	0	3	0	3
+gujarati	detective	0	3	0	3
+gujarati	diplomat	0	3	0	3
+gujarati	doctor	0	3	0	3
+gujarati	dumb	0	3	0	3
+gujarati	editor	0	3	0	3
+gujarati	electronics	0	3	0	3
+gujarati	engineer	0	3	0	3
+gujarati	english	0	3	0	3
+gujarati	fancy	0	3	0	3
+gujarati	farmer	0	3	0	3
+gujarati	fat	0	3	0	3
+gujarati	finance	0	3	0	3
+gujarati	guard	0	3	0	3
+gujarati	handsome	0	3	0	3
+gujarati	hated	0	3	0	3
+gujarati	helpless	0	3	0	3
+gujarati	humanities	0	3	0	3
+gujarati	journalist	0	3	0	3
+gujarati	labourer	0	3	0	3
+gujarati	lawyer	0	3	0	3
+gujarati	lowly	0	3	0	3
+gujarati	maths	0	3	0	3
+gujarati	mechanic	0	3	0	3
+gujarati	nurse	0	3	0	3
+gujarati	physician	0	3	0	3
+gujarati	physics	0	3	0	3
+gujarati	pilot	0	3	0	3
+gujarati	policeman	0	3	0	3
+gujarati	politician	0	3	0	3
+gujarati	kind	2	0	4	6
+gujarati	poor	0	3	0	3
+gujarati	powerful	0	3	0	3
+gujarati	professor	0	3	0	3
+gujarati	protective	0	3	0	3
+gujarati	rapist	0	3	0	3
+gujarati	respected	0	3	0	3
+gujarati	politics	2	1	3	6
+gujarati	ruthless	0	3	0	3
+gujarati	science	0	3	0	3
+gujarati	scientist	0	3	0	3
+gujarati	secretary	0	3	0	3
+gujarati	short	0	3	0	3
+gujarati	sociologist	0	3	0	3
+gujarati	soldier	0	3	0	3
+gujarati	strong	0	3	0	3
+gujarati	successful	2	1	3	6
+gujarati	supervisor	0	3	0	3
+gujarati	teacher	0	3	0	3
+gujarati	technology	0	3	0	3
+gujarati	thin	0	3	0	3
+gujarati	ugly	0	3	0	3
+gujarati	umpire	0	3	0	3
+gujarati	violent	0	3	0	3
+gujarati	weak	0	3	0	3
+gujarati	writer	0	3	0	3
+haryanvi	academic	0	3	0	3
+haryanvi	analyst	0	3	0	3
+haryanvi	artist	0	3	0	3
+haryanvi	athlete	2	4	0	6
+haryanvi	beautiful	0	3	0	3
+haryanvi	biology	0	3	0	3
+haryanvi	calm	0	3	0	3
+haryanvi	chef	0	3	0	3
+haryanvi	coach	0	3	0	3
+haryanvi	comedian	0	3	0	3
+haryanvi	covered	0	3	0	3
+haryanvi	actor	1	2	0	3
+haryanvi	army	1	1	1	3
+haryanvi	art	1	2	0	3
+haryanvi	assistant	0	2	1	3
+haryanvi	author	0	2	1	3
+haryanvi	business	1	2	0	3
+haryanvi	ceo	1	2	0	3
+haryanvi	commander	1	2	0	3
+haryanvi	consultant	0	2	1	3
+haryanvi	cricketer	1	2	0	3
+haryanvi	criminal	0	2	1	3
+haryanvi	dance	1	2	0	3
+haryanvi	dancer	1	2	0	3
+haryanvi	english	1	2	0	3
+haryanvi	farmer	1	2	0	3
+haryanvi	guard	1	2	0	3
+haryanvi	judge	0	2	1	3
+haryanvi	management	0	2	1	3
+haryanvi	model	1	2	0	3
+haryanvi	driver	2	4	0	6
+haryanvi	police	1	2	0	3
+haryanvi	politician	1	2	0	3
+haryanvi	powerful	1	2	0	3
+haryanvi	science	0	2	1	3
+haryanvi	scientist	0	2	1	3
+haryanvi	singer	1	2	0	3
+haryanvi	designer	0	3	0	3
+haryanvi	strong	1	2	0	3
+haryanvi	treasurer	0	1	2	3
+haryanvi	violent	0	2	1	3
+haryanvi	director	0	3	0	3
+haryanvi	doctor	0	3	0	3
+haryanvi	editor	0	3	0	3
+haryanvi	emotional	0	3	0	3
+haryanvi	engineer	0	3	0	3
+haryanvi	fancy	0	3	0	3
+haryanvi	finance	0	3	0	3
+haryanvi	history	0	3	0	3
+haryanvi	journalist	0	3	0	3
+haryanvi	kind	0	3	0	3
+haryanvi	law	0	3	0	3
+haryanvi	lawyer	0	3	0	3
+haryanvi	manager	0	3	0	3
+haryanvi	nurse	0	3	0	3
+haryanvi	pandit	0	3	0	3
+haryanvi	physician	0	3	0	3
+haryanvi	pilot	0	3	0	3
+haryanvi	poet	0	3	0	3
+haryanvi	politics	0	3	0	3
+haryanvi	poor	0	3	0	3
+haryanvi	music	2	1	3	6
+haryanvi	producer	0	3	0	3
+haryanvi	professor	0	3	0	3
+haryanvi	rich	0	3	0	3
+haryanvi	secretary	0	3	0	3
+haryanvi	short	0	3	0	3
+haryanvi	smart	0	3	0	3
+haryanvi	soldier	0	3	0	3
+haryanvi	successful	0	3	0	3
+haryanvi	teacher	0	3	0	3
+haryanvi	technology	0	3	0	3
+haryanvi	travel	0	3	0	3
+haryanvi	ugly	0	3	0	3
+haryanvi	weak	0	3	0	3
+haryanvi	writer	0	3	0	3
+himachali	army	0	3	0	3
+himachali	art	0	3	0	3
+himachali	assistant	0	3	0	3
+himachali	business	0	3	0	3
+himachali	ceo	0	3	0	3
+himachali	engineer	0	2	1	3
+himachali	finance	0	1	2	3
+himachali	law	0	2	1	3
+himachali	manager	0	2	1	3
+himachali	professor	0	2	1	3
+himachali	science	0	2	1	3
+himachali	director	0	3	0	3
+himachali	doctor	0	3	0	3
+himachali	educated	0	3	0	3
+himachali	management	0	3	0	3
+himachali	model	0	3	0	3
+himachali	pilot	0	3	0	3
+himachali	police	0	3	0	3
+himachali	poor	0	3	0	3
+himachali	secretary	0	3	0	3
+himachali	strong	0	3	0	3
+himachali	teacher	0	3	0	3
+himachali	technology	0	3	0	3
+jharkhandi	academic	0	3	0	3
+jharkhandi	accountant	0	3	0	3
+jharkhandi	actor	0	3	0	3
+jharkhandi	analyst	0	3	0	3
+jharkhandi	angry	0	3	0	3
+jharkhandi	army	0	3	0	3
+jharkhandi	art	0	3	0	3
+jharkhandi	artist	0	3	0	3
+jharkhandi	attorney	0	3	0	3
+jharkhandi	auditor	0	3	0	3
+jharkhandi	author	0	3	0	3
+jharkhandi	athlete	2	4	0	6
+jharkhandi	beautiful	0	3	0	3
+jharkhandi	brave	0	3	0	3
+jharkhandi	business	0	3	0	3
+jharkhandi	calm	0	3	0	3
+jharkhandi	caring	0	3	0	3
+jharkhandi	carpenter	0	3	0	3
+jharkhandi	cashier	0	3	0	3
+jharkhandi	ceo	0	3	0	3
+jharkhandi	chef	0	3	0	3
+jharkhandi	chemistry	0	3	0	3
+jharkhandi	clerk	0	3	0	3
+jharkhandi	colourful	0	3	0	3
+jharkhandi	comedian	0	3	0	3
+jharkhandi	commander	0	3	0	3
+jharkhandi	composer	0	3	0	3
+jharkhandi	consultant	0	3	0	3
+jharkhandi	cook	0	3	0	3
+jharkhandi	covered	0	3	0	3
+jharkhandi	dance	0	3	0	3
+jharkhandi	dancer	0	3	0	3
+jharkhandi	dentist	0	3	0	3
+jharkhandi	designer	0	3	0	3
+jharkhandi	diplomat	0	3	0	3
+jharkhandi	architect	0	2	1	3
+jharkhandi	assistant	0	2	1	3
+jharkhandi	astronaut	0	2	1	3
+jharkhandi	driver	2	4	0	6
+jharkhandi	director	0	3	0	3
+jharkhandi	baker	0	1	2	3
+jharkhandi	biology	0	1	2	3
+jharkhandi	boxer	0	2	1	3
+jharkhandi	coach	0	1	2	3
+jharkhandi	doctor	0	3	0	3
+jharkhandi	cricketer	1	2	0	3
+jharkhandi	criminal	0	2	1	3
+jharkhandi	detective	0	2	1	3
+jharkhandi	educated	0	2	1	3
+jharkhandi	engineer	0	2	1	3
+jharkhandi	english	1	2	0	3
+jharkhandi	dumb	0	3	0	3
+jharkhandi	historian	0	2	1	3
+jharkhandi	history	0	2	1	3
+jharkhandi	journalist	0	2	1	3
+jharkhandi	kind	1	2	0	3
+jharkhandi	lawyer	0	2	1	3
+jharkhandi	lowly	0	2	1	3
+jharkhandi	mechanic	1	2	0	3
+jharkhandi	musician	0	2	1	3
+jharkhandi	economist	0	3	0	3
+jharkhandi	pilot	0	1	2	3
+jharkhandi	policeman	0	2	1	3
+jharkhandi	poor	1	2	0	3
+jharkhandi	producer	0	2	1	3
+jharkhandi	editor	0	3	0	3
+jharkhandi	psychologist	0	1	2	3
+jharkhandi	ruthless	1	2	0	3
+jharkhandi	science	0	2	1	3
+jharkhandi	teacher	1	1	1	3
+jharkhandi	travel	1	2	0	3
+jharkhandi	electronics	0	3	0	3
+jharkhandi	emotional	0	3	0	3
+jharkhandi	fancy	0	3	0	3
+jharkhandi	farmer	0	3	0	3
+jharkhandi	fat	0	3	0	3
+jharkhandi	finance	0	3	0	3
+jharkhandi	golfer	0	3	0	3
+jharkhandi	guard	0	3	0	3
+jharkhandi	guitarist	0	3	0	3
+jharkhandi	handsome	0	3	0	3
+jharkhandi	hated	0	3	0	3
+jharkhandi	helpless	0	3	0	3
+jharkhandi	humanities	0	3	0	3
+jharkhandi	judge	0	3	0	3
+jharkhandi	law	0	3	0	3
+jharkhandi	management	0	3	0	3
+jharkhandi	manager	0	3	0	3
+jharkhandi	maths	0	3	0	3
+jharkhandi	model	0	3	0	3
+jharkhandi	music	0	3	0	3
+jharkhandi	nurse	0	3	0	3
+jharkhandi	painter	0	3	0	3
+jharkhandi	pandit	0	3	0	3
+jharkhandi	photographer	0	3	0	3
+jharkhandi	physician	0	3	0	3
+jharkhandi	physics	0	3	0	3
+jharkhandi	poet	0	3	0	3
+jharkhandi	police	0	3	0	3
+jharkhandi	politician	0	3	0	3
+jharkhandi	politics	0	3	0	3
+jharkhandi	labourer	2	4	0	6
+jharkhandi	powerful	0	3	0	3
+jharkhandi	priest	0	3	0	3
+jharkhandi	professor	0	3	0	3
+jharkhandi	protective	0	3	0	3
+jharkhandi	respected	0	3	0	3
+jharkhandi	rich	0	3	0	3
+jharkhandi	scientist	0	3	0	3
+jharkhandi	secretary	0	3	0	3
+jharkhandi	short	0	3	0	3
+jharkhandi	singer	0	3	0	3
+jharkhandi	smart	0	3	0	3
+jharkhandi	soldier	0	3	0	3
+jharkhandi	statistics	0	3	0	3
+jharkhandi	strong	0	3	0	3
+jharkhandi	successful	0	3	0	3
+jharkhandi	supervisor	0	3	0	3
+jharkhandi	tailor	0	3	0	3
+jharkhandi	technology	0	3	0	3
+jharkhandi	thin	0	3	0	3
+jharkhandi	treasurer	0	3	0	3
+jharkhandi	ugly	0	3	0	3
+jharkhandi	umpire	0	3	0	3
+jharkhandi	vegetarian	0	3	0	3
+jharkhandi	violent	0	3	0	3
+jharkhandi	weak	0	3	0	3
+jharkhandi	writer	0	3	0	3
+kannadiga	accountant	0	3	0	3
+kannadiga	analyst	0	3	0	3
+kannadiga	angry	0	3	0	3
+kannadiga	actor	2	4	0	6
+kannadiga	assistant	0	3	0	3
+kannadiga	author	0	3	0	3
+kannadiga	beautiful	0	3	0	3
+kannadiga	calm	0	3	0	3
+kannadiga	ceo	0	3	0	3
+kannadiga	chef	0	3	0	3
+kannadiga	colourful	0	3	0	3
+kannadiga	comedian	0	3	0	3
+kannadiga	consultant	0	3	0	3
+kannadiga	cricketer	0	3	0	3
+kannadiga	criminal	0	3	0	3
+kannadiga	designer	0	3	0	3
+kannadiga	director	0	3	0	3
+kannadiga	driver	0	3	0	3
+kannadiga	electronics	2	1	3	6
+kannadiga	editor	0	3	0	3
+kannadiga	academic	1	1	1	3
+kannadiga	architect	1	2	0	3
+kannadiga	army	0	2	1	3
+kannadiga	art	1	2	0	3
+kannadiga	artist	1	0	2	3
+kannadiga	business	0	2	1	3
+kannadiga	chemistry	0	2	1	3
+kannadiga	coach	1	2	0	3
+kannadiga	composer	1	2	0	3
+kannadiga	covered	0	2	1	3
+kannadiga	dance	0	2	1	3
+kannadiga	dancer	1	2	0	3
+kannadiga	doctor	1	2	0	3
+kannadiga	english	2	1	3	6
+kannadiga	emotional	0	2	1	3
+kannadiga	farmer	0	2	1	3
+kannadiga	history	1	1	1	3
+kannadiga	law	0	2	1	3
+kannadiga	lawyer	0	2	1	3
+kannadiga	music	1	2	0	3
+kannadiga	musician	1	1	1	3
+kannadiga	pandit	1	2	0	3
+kannadiga	poet	1	2	0	3
+kannadiga	engineer	0	3	0	3
+kannadiga	politics	0	2	1	3
+kannadiga	priest	0	1	2	3
+kannadiga	professor	1	2	0	3
+kannadiga	respected	1	2	0	3
+kannadiga	rich	1	2	0	3
+kannadiga	secretary	0	2	1	3
+kannadiga	short	0	2	1	3
+kannadiga	singer	1	2	0	3
+kannadiga	strong	1	2	0	3
+kannadiga	successful	1	2	0	3
+kannadiga	teacher	1	2	0	3
+kannadiga	technology	1	0	2	3
+kannadiga	writer	1	2	0	3
+kannadiga	fat	0	3	0	3
+kannadiga	finance	0	3	0	3
+kannadiga	guard	0	3	0	3
+kannadiga	journalist	0	3	0	3
+kannadiga	judge	0	3	0	3
+kannadiga	kind	0	3	0	3
+kannadiga	management	0	3	0	3
+kannadiga	manager	0	3	0	3
+kannadiga	model	0	3	0	3
+kannadiga	photographer	0	3	0	3
+kannadiga	physician	0	3	0	3
+kannadiga	pilot	0	3	0	3
+kannadiga	police	0	3	0	3
+kannadiga	politician	0	3	0	3
+kannadiga	poor	0	3	0	3
+kannadiga	powerful	0	3	0	3
+kannadiga	producer	0	3	0	3
+kannadiga	rapist	0	3	0	3
+kannadiga	science	0	3	0	3
+kannadiga	scientist	0	3	0	3
+kannadiga	smart	0	3	0	3
+kannadiga	travel	0	3	0	3
+kannadiga	treasurer	0	3	0	3
+kannadiga	weak	0	3	0	3
+kashmiri	academic	0	3	0	3
+kashmiri	accountant	0	3	0	3
+kashmiri	actor	0	3	0	3
+kashmiri	analyst	0	3	0	3
+kashmiri	angry	0	3	0	3
+kashmiri	architect	0	3	0	3
+kashmiri	army	0	3	0	3
+kashmiri	astronaut	0	3	0	3
+kashmiri	athlete	0	3	0	3
+kashmiri	attorney	0	3	0	3
+kashmiri	auditor	0	3	0	3
+kashmiri	author	0	3	0	3
+kashmiri	biology	0	3	0	3
+kashmiri	boxer	0	3	0	3
+kashmiri	brave	0	3	0	3
+kashmiri	business	0	3	0	3
+kashmiri	calm	0	3	0	3
+kashmiri	caring	0	3	0	3
+kashmiri	carpenter	0	3	0	3
+kashmiri	ceo	0	3	0	3
+kashmiri	chef	0	3	0	3
+kashmiri	clerk	0	3	0	3
+kashmiri	comedian	0	3	0	3
+kashmiri	commander	0	3	0	3
+kashmiri	composer	0	3	0	3
+kashmiri	consultant	0	3	0	3
+kashmiri	courageous	0	3	0	3
+kashmiri	covered	0	3	0	3
+kashmiri	cricketer	0	3	0	3
+kashmiri	dance	0	3	0	3
+kashmiri	dancer	0	3	0	3
+kashmiri	dentist	0	3	0	3
+kashmiri	designer	0	3	0	3
+kashmiri	diplomat	0	3	0	3
+kashmiri	director	0	3	0	3
+kashmiri	doctor	0	3	0	3
+kashmiri	dumb	0	3	0	3
+kashmiri	economist	0	3	0	3
+kashmiri	editor	0	3	0	3
+kashmiri	educated	0	3	0	3
+kashmiri	electronics	0	3	0	3
+kashmiri	engineer	0	3	0	3
+kashmiri	english	0	3	0	3
+kashmiri	art	1	2	0	3
+kashmiri	artist	0	2	1	3
+kashmiri	assistant	0	2	1	3
+kashmiri	banker	0	1	2	3
+kashmiri	beautiful	1	2	0	3
+kashmiri	cashier	0	2	1	3
+kashmiri	chemistry	0	1	2	3
+kashmiri	cleaner	0	1	2	3
+kashmiri	coach	0	2	1	3
+kashmiri	colourful	1	2	0	3
+kashmiri	cook	0	2	1	3
+kashmiri	criminal	1	2	0	3
+kashmiri	farmer	0	3	0	3
+kashmiri	driver	0	2	1	3
+kashmiri	emotional	0	2	1	3
+kashmiri	fancy	0	2	1	3
+kashmiri	helpless	1	2	0	3
+kashmiri	judge	0	2	1	3
+kashmiri	kind	0	2	1	3
+kashmiri	law	0	2	1	3
+kashmiri	finance	0	3	0	3
+kashmiri	mathematician	0	2	1	3
+kashmiri	model	0	2	1	3
+kashmiri	music	0	2	1	3
+kashmiri	painter	0	2	1	3
+kashmiri	pandit	1	2	0	3
+kashmiri	policeman	0	2	1	3
+kashmiri	golfer	0	3	0	3
+kashmiri	short	0	2	1	3
+kashmiri	soldier	0	2	1	3
+kashmiri	guard	0	3	0	3
+kashmiri	guitarist	0	3	0	3
+kashmiri	hated	0	3	0	3
+kashmiri	historian	0	3	0	3
+kashmiri	history	0	3	0	3
+kashmiri	humanities	0	3	0	3
+kashmiri	journalist	0	3	0	3
+kashmiri	labourer	0	3	0	3
+kashmiri	lawyer	0	3	0	3
+kashmiri	librarian	0	3	0	3
+kashmiri	management	0	3	0	3
+kashmiri	handsome	2	1	3	6
+kashmiri	manager	0	3	0	3
+kashmiri	musician	0	3	0	3
+kashmiri	nurse	0	3	0	3
+kashmiri	photographer	0	3	0	3
+kashmiri	physician	0	3	0	3
+kashmiri	physics	0	3	0	3
+kashmiri	pilot	0	3	0	3
+kashmiri	poet	0	3	0	3
+kashmiri	police	0	3	0	3
+kashmiri	politician	0	3	0	3
+kashmiri	politics	0	3	0	3
+kashmiri	poor	0	3	0	3
+kashmiri	powerful	0	3	0	3
+kashmiri	priest	0	3	0	3
+kashmiri	producer	0	3	0	3
+kashmiri	professor	0	3	0	3
+kashmiri	protective	0	3	0	3
+kashmiri	rapist	0	3	0	3
+kashmiri	respected	0	3	0	3
+kashmiri	rich	0	3	0	3
+kashmiri	ruthless	0	3	0	3
+kashmiri	science	0	3	0	3
+kashmiri	scientist	0	3	0	3
+kashmiri	secretary	0	3	0	3
+kashmiri	singer	0	3	0	3
+kashmiri	smart	0	3	0	3
+kashmiri	statistics	0	3	0	3
+kashmiri	strong	0	3	0	3
+kashmiri	successful	0	3	0	3
+kashmiri	supervisor	0	3	0	3
+kashmiri	tailor	0	3	0	3
+kashmiri	teacher	0	3	0	3
+kashmiri	technology	0	3	0	3
+kashmiri	thin	0	3	0	3
+kashmiri	travel	0	3	0	3
+kashmiri	treasurer	0	3	0	3
+kashmiri	ugly	0	3	0	3
+kashmiri	umpire	0	3	0	3
+kashmiri	violent	0	3	0	3
+kashmiri	weak	0	3	0	3
+kashmiri	writer	0	3	0	3
+madhya pradeshi	accountant	0	3	0	3
+madhya pradeshi	analyst	0	3	0	3
+madhya pradeshi	angry	0	3	0	3
+madhya pradeshi	architect	0	3	0	3
+madhya pradeshi	army	0	3	0	3
+madhya pradeshi	art	0	3	0	3
+madhya pradeshi	astronaut	0	3	0	3
+madhya pradeshi	athlete	0	3	0	3
+madhya pradeshi	attorney	0	3	0	3
+madhya pradeshi	auditor	0	3	0	3
+madhya pradeshi	baker	0	3	0	3
+madhya pradeshi	banker	0	3	0	3
+madhya pradeshi	barber	0	3	0	3
+madhya pradeshi	beautiful	0	3	0	3
+madhya pradeshi	biology	0	3	0	3
+madhya pradeshi	boxer	0	3	0	3
+madhya pradeshi	brave	0	3	0	3
+madhya pradeshi	calm	0	3	0	3
+madhya pradeshi	carpenter	0	3	0	3
+madhya pradeshi	chef	0	3	0	3
+madhya pradeshi	chemistry	0	3	0	3
+madhya pradeshi	cleaner	0	3	0	3
+madhya pradeshi	clerk	0	3	0	3
+madhya pradeshi	coach	0	3	0	3
+madhya pradeshi	comedian	0	3	0	3
+madhya pradeshi	composer	0	3	0	3
+madhya pradeshi	cook	0	3	0	3
+madhya pradeshi	covered	0	3	0	3
+madhya pradeshi	cricketer	0	3	0	3
+madhya pradeshi	criminal	0	3	0	3
+madhya pradeshi	dance	0	3	0	3
+madhya pradeshi	dancer	0	3	0	3
+madhya pradeshi	designer	0	3	0	3
+madhya pradeshi	detective	0	3	0	3
+madhya pradeshi	diplomat	0	3	0	3
+madhya pradeshi	director	0	3	0	3
+madhya pradeshi	driver	0	3	0	3
+madhya pradeshi	dumb	0	3	0	3
+madhya pradeshi	editor	0	3	0	3
+madhya pradeshi	educated	0	3	0	3
+madhya pradeshi	emotional	0	3	0	3
+madhya pradeshi	engineer	0	3	0	3
+madhya pradeshi	english	0	3	0	3
+madhya pradeshi	fat	0	3	0	3
+madhya pradeshi	finance	0	3	0	3
+madhya pradeshi	fisherman	0	3	0	3
+madhya pradeshi	guard	0	3	0	3
+madhya pradeshi	guitarist	0	3	0	3
+madhya pradeshi	academic	1	2	0	3
+madhya pradeshi	actor	1	2	0	3
+madhya pradeshi	artist	1	2	0	3
+madhya pradeshi	assistant	0	2	1	3
+madhya pradeshi	handsome	0	3	0	3
+madhya pradeshi	author	0	2	1	3
+madhya pradeshi	broker	0	2	1	3
+madhya pradeshi	business	1	2	0	3
+madhya pradeshi	caring	0	2	1	3
+madhya pradeshi	cashier	0	2	1	3
+madhya pradeshi	ceo	0	2	1	3
+madhya pradeshi	hated	0	3	0	3
+madhya pradeshi	colourful	1	2	0	3
+madhya pradeshi	commander	0	2	1	3
+madhya pradeshi	consultant	0	2	1	3
+madhya pradeshi	courageous	0	2	1	3
+madhya pradeshi	helpless	0	3	0	3
+madhya pradeshi	doctor	0	2	1	3
+madhya pradeshi	electronics	0	2	1	3
+madhya pradeshi	fancy	1	2	0	3
+madhya pradeshi	farmer	2	4	0	6
+madhya pradeshi	historian	0	3	0	3
+madhya pradeshi	judge	0	1	2	3
+madhya pradeshi	history	0	3	0	3
+madhya pradeshi	lawyer	0	2	1	3
+madhya pradeshi	humanities	0	3	0	3
+madhya pradeshi	painter	0	2	1	3
+madhya pradeshi	pandit	1	2	0	3
+madhya pradeshi	physics	0	1	2	3
+madhya pradeshi	poet	1	2	0	3
+madhya pradeshi	police	1	2	0	3
+madhya pradeshi	politics	1	2	0	3
+madhya pradeshi	priest	1	2	0	3
+madhya pradeshi	journalist	0	3	0	3
+madhya pradeshi	scientist	0	2	1	3
+madhya pradeshi	secretary	0	2	1	3
+madhya pradeshi	spicy	0	2	1	3
+madhya pradeshi	tailor	0	2	1	3
+madhya pradeshi	teacher	0	2	1	3
+madhya pradeshi	travel	0	2	1	3
+madhya pradeshi	treasurer	0	2	1	3
+madhya pradeshi	ugly	0	2	1	3
+madhya pradeshi	umpire	0	1	2	3
+madhya pradeshi	vegetarian	1	2	0	3
+madhya pradeshi	kind	0	3	0	3
+madhya pradeshi	labourer	0	3	0	3
+madhya pradeshi	law	0	3	0	3
+madhya pradeshi	librarian	0	3	0	3
+madhya pradeshi	lowly	0	3	0	3
+madhya pradeshi	management	0	3	0	3
+madhya pradeshi	manager	0	3	0	3
+madhya pradeshi	mechanic	0	3	0	3
+madhya pradeshi	model	0	3	0	3
+madhya pradeshi	music	0	3	0	3
+madhya pradeshi	musician	0	3	0	3
+madhya pradeshi	nurse	0	3	0	3
+madhya pradeshi	photographer	0	3	0	3
+madhya pradeshi	physician	0	3	0	3
+madhya pradeshi	pilot	0	3	0	3
+madhya pradeshi	policeman	0	3	0	3
+madhya pradeshi	politician	0	3	0	3
+madhya pradeshi	poor	0	3	0	3
+madhya pradeshi	powerful	0	3	0	3
+madhya pradeshi	producer	0	3	0	3
+madhya pradeshi	professor	0	3	0	3
+madhya pradeshi	protective	0	3	0	3
+madhya pradeshi	psychologist	0	3	0	3
+madhya pradeshi	rapist	0	3	0	3
+madhya pradeshi	respected	0	3	0	3
+madhya pradeshi	rich	0	3	0	3
+madhya pradeshi	ruthless	0	3	0	3
+madhya pradeshi	science	0	3	0	3
+madhya pradeshi	short	0	3	0	3
+madhya pradeshi	singer	0	3	0	3
+madhya pradeshi	smart	0	3	0	3
+madhya pradeshi	soldier	0	3	0	3
+madhya pradeshi	statistics	0	3	0	3
+madhya pradeshi	strong	0	3	0	3
+madhya pradeshi	successful	0	3	0	3
+madhya pradeshi	supervisor	0	3	0	3
+madhya pradeshi	technology	0	3	0	3
+madhya pradeshi	thin	0	3	0	3
+madhya pradeshi	violent	0	3	0	3
+madhya pradeshi	weak	0	3	0	3
+madhya pradeshi	writer	0	3	0	3
+manipuri	actor	0	3	0	3
+manipuri	analyst	0	3	0	3
+manipuri	angry	0	3	0	3
+manipuri	artist	0	3	0	3
+manipuri	assistant	0	3	0	3
+manipuri	art	2	1	3	6
+manipuri	author	0	3	0	3
+manipuri	baker	0	3	0	3
+manipuri	beautiful	0	3	0	3
+manipuri	brave	0	3	0	3
+manipuri	ceo	0	3	0	3
+manipuri	chef	0	3	0	3
+manipuri	coach	0	3	0	3
+manipuri	commander	0	3	0	3
+manipuri	composer	0	3	0	3
+manipuri	dance	2	1	3	6
+manipuri	covered	0	3	0	3
+manipuri	cricketer	0	3	0	3
+manipuri	criminal	0	3	0	3
+manipuri	dancer	0	3	0	3
+manipuri	designer	0	3	0	3
+manipuri	diplomat	0	3	0	3
+manipuri	director	0	3	0	3
+manipuri	doctor	0	3	0	3
+manipuri	driver	0	3	0	3
+manipuri	economist	0	3	0	3
+manipuri	editor	0	3	0	3
+manipuri	educated	0	3	0	3
+manipuri	electronics	0	3	0	3
+manipuri	emotional	0	3	0	3
+manipuri	engineer	0	3	0	3
+manipuri	english	0	3	0	3
+manipuri	fat	0	3	0	3
+manipuri	finance	0	3	0	3
+manipuri	guard	0	3	0	3
+manipuri	handsome	0	3	0	3
+manipuri	helpless	0	3	0	3
+manipuri	history	0	3	0	3
+manipuri	journalist	0	3	0	3
+manipuri	army	0	2	1	3
+manipuri	athlete	1	2	0	3
+manipuri	boxer	1	2	0	3
+manipuri	business	0	2	1	3
+manipuri	calm	1	2	0	3
+manipuri	cook	1	2	0	3
+manipuri	farmer	1	2	0	3
+manipuri	judge	0	2	1	3
+manipuri	kind	0	2	1	3
+manipuri	law	0	1	2	3
+manipuri	lawyer	0	1	2	3
+manipuri	politician	0	2	1	3
+manipuri	politics	0	2	1	3
+manipuri	poor	1	1	1	3
+manipuri	science	0	2	1	3
+manipuri	short	0	2	1	3
+manipuri	thin	1	2	0	3
+manipuri	management	0	3	0	3
+manipuri	manager	0	3	0	3
+manipuri	model	0	3	0	3
+manipuri	music	0	3	0	3
+manipuri	pilot	0	3	0	3
+manipuri	police	0	3	0	3
+manipuri	powerful	0	3	0	3
+manipuri	producer	0	3	0	3
+manipuri	professor	0	3	0	3
+manipuri	respected	0	3	0	3
+manipuri	rich	0	3	0	3
+manipuri	secretary	0	3	0	3
+manipuri	singer	0	3	0	3
+manipuri	smart	0	3	0	3
+manipuri	strong	0	3	0	3
+manipuri	successful	0	3	0	3
+manipuri	teacher	0	3	0	3
+manipuri	technology	0	3	0	3
+manipuri	travel	0	3	0	3
+manipuri	ugly	0	3	0	3
+manipuri	violent	0	3	0	3
+manipuri	weak	0	3	0	3
+manipuri	writer	0	3	0	3
+marathi	accountant	0	3	0	3
+marathi	analyst	0	3	0	3
+marathi	angry	0	3	0	3
+marathi	architect	0	3	0	3
+marathi	army	0	3	0	3
+marathi	assistant	0	3	0	3
+marathi	actor	2	4	0	6
+marathi	attorney	0	3	0	3
+marathi	author	0	3	0	3
+marathi	baker	0	3	0	3
+marathi	banker	0	3	0	3
+marathi	barber	0	3	0	3
+marathi	beautiful	0	3	0	3
+marathi	biology	0	3	0	3
+marathi	boxer	0	3	0	3
+marathi	broker	0	3	0	3
+marathi	caring	0	3	0	3
+marathi	carpenter	0	3	0	3
+marathi	ceo	0	3	0	3
+marathi	chef	0	3	0	3
+marathi	chemistry	0	3	0	3
+marathi	cleaner	0	3	0	3
+marathi	clerk	0	3	0	3
+marathi	cook	0	3	0	3
+marathi	covered	0	3	0	3
+marathi	dance	2	1	3	6
+marathi	dancer	0	3	0	3
+marathi	detective	0	3	0	3
+marathi	doctor	0	3	0	3
+marathi	dumb	0	3	0	3
+marathi	economist	0	3	0	3
+marathi	editor	0	3	0	3
+marathi	electronics	0	3	0	3
+marathi	engineer	0	3	0	3
+marathi	english	0	3	0	3
+marathi	fat	0	3	0	3
+marathi	finance	0	3	0	3
+marathi	guard	0	3	0	3
+marathi	guitarist	0	3	0	3
+marathi	handsome	0	3	0	3
+marathi	hated	0	3	0	3
+marathi	helpless	0	3	0	3
+marathi	historian	0	3	0	3
+marathi	history	0	3	0	3
+marathi	humanities	0	3	0	3
+marathi	journalist	0	3	0	3
+marathi	judge	0	3	0	3
+marathi	labourer	0	3	0	3
+marathi	librarian	0	3	0	3
+marathi	academic	1	2	0	3
+marathi	lowly	0	3	0	3
+marathi	art	1	2	0	3
+marathi	artist	1	1	1	3
+marathi	athlete	0	2	1	3
+marathi	auditor	0	2	1	3
+marathi	brave	0	2	1	3
+marathi	business	1	2	0	3
+marathi	calm	0	2	1	3
+marathi	management	0	3	0	3
+marathi	coach	0	2	1	3
+marathi	colourful	0	2	1	3
+marathi	comedian	0	2	1	3
+marathi	commander	0	2	1	3
+marathi	composer	1	2	0	3
+marathi	consultant	0	2	1	3
+marathi	courageous	1	2	0	3
+marathi	cricketer	1	2	0	3
+marathi	criminal	0	2	1	3
+marathi	designer	1	1	1	3
+marathi	diplomat	1	2	0	3
+marathi	director	1	2	0	3
+marathi	driver	0	2	1	3
+marathi	educated	1	2	0	3
+marathi	emotional	0	1	2	3
+marathi	fancy	0	2	1	3
+marathi	farmer	1	2	0	3
+marathi	fisherman	1	0	2	3
+marathi	golfer	0	2	1	3
+marathi	manager	0	3	0	3
+marathi	kind	0	2	1	3
+marathi	law	0	2	1	3
+marathi	lawyer	0	2	1	3
+marathi	mathematician	0	2	1	3
+marathi	model	1	1	1	3
+marathi	music	1	1	1	3
+marathi	musician	1	2	0	3
+marathi	pandit	0	2	1	3
+marathi	maths	0	3	0	3
+marathi	police	1	2	0	3
+marathi	policeman	1	2	0	3
+marathi	politician	1	2	0	3
+marathi	politics	1	2	0	3
+marathi	powerful	1	2	0	3
+marathi	producer	1	1	1	3
+marathi	rich	1	2	0	3
+marathi	short	0	2	1	3
+marathi	singer	1	2	0	3
+marathi	soldier	0	1	2	3
+marathi	spicy	0	2	1	3
+marathi	supervisor	0	2	1	3
+marathi	treasurer	1	2	0	3
+marathi	umpire	0	1	2	3
+marathi	vegetarian	1	2	0	3
+marathi	nurse	0	3	0	3
+marathi	painter	0	3	0	3
+marathi	photographer	0	3	0	3
+marathi	physician	0	3	0	3
+marathi	physics	0	3	0	3
+marathi	pilot	0	3	0	3
+marathi	poet	0	3	0	3
+marathi	poor	0	3	0	3
+marathi	priest	0	3	0	3
+marathi	professor	0	3	0	3
+marathi	protective	0	3	0	3
+marathi	psychologist	0	3	0	3
+marathi	respected	0	3	0	3
+marathi	ruthless	0	3	0	3
+marathi	science	0	3	0	3
+marathi	scientist	0	3	0	3
+marathi	secretary	0	3	0	3
+marathi	smart	0	3	0	3
+marathi	sociologist	0	3	0	3
+marathi	statistics	0	3	0	3
+marathi	strong	0	3	0	3
+marathi	successful	0	3	0	3
+marathi	teacher	0	3	0	3
+marathi	technology	0	3	0	3
+marathi	thin	0	3	0	3
+marathi	travel	0	3	0	3
+marathi	ugly	0	3	0	3
+marathi	violent	0	3	0	3
+marathi	weak	0	3	0	3
+marathi	writer	0	3	0	3
+meghalayan	academic	0	3	0	3
+meghalayan	actor	0	3	0	3
+meghalayan	angry	0	3	0	3
+meghalayan	architect	0	3	0	3
+meghalayan	army	0	3	0	3
+meghalayan	art	0	3	0	3
+meghalayan	artist	0	3	0	3
+meghalayan	assistant	0	3	0	3
+meghalayan	author	0	3	0	3
+meghalayan	beautiful	0	3	0	3
+meghalayan	ceo	0	3	0	3
+meghalayan	colourful	0	3	0	3
+meghalayan	consultant	0	3	0	3
+meghalayan	criminal	0	3	0	3
+meghalayan	dance	0	3	0	3
+meghalayan	director	0	3	0	3
+meghalayan	doctor	0	3	0	3
+meghalayan	emotional	0	3	0	3
+meghalayan	farmer	0	3	0	3
+meghalayan	finance	0	3	0	3
+meghalayan	guard	0	3	0	3
+meghalayan	historian	0	3	0	3
+meghalayan	journalist	0	3	0	3
+meghalayan	judge	0	3	0	3
+meghalayan	law	0	3	0	3
+meghalayan	lawyer	0	3	0	3
+meghalayan	manager	0	3	0	3
+meghalayan	model	0	3	0	3
+meghalayan	analyst	0	2	1	3
+meghalayan	music	0	3	0	3
+meghalayan	astronaut	0	2	1	3
+meghalayan	athlete	1	2	0	3
+meghalayan	business	0	2	1	3
+meghalayan	calm	1	2	0	3
+meghalayan	chef	1	1	1	3
+meghalayan	coach	0	1	2	3
+meghalayan	commander	0	2	1	3
+meghalayan	covered	0	2	1	3
+meghalayan	designer	0	2	1	3
+meghalayan	driver	0	2	1	3
+meghalayan	educated	0	2	1	3
+meghalayan	engineer	0	2	1	3
+meghalayan	english	1	2	0	3
+meghalayan	history	0	1	2	3
+meghalayan	kind	0	2	1	3
+meghalayan	management	1	1	1	3
+meghalayan	musician	1	2	0	3
+meghalayan	poet	0	2	1	3
+meghalayan	police	0	2	1	3
+meghalayan	poor	1	1	1	3
+meghalayan	professor	1	2	0	3
+meghalayan	short	0	2	1	3
+meghalayan	strong	0	2	1	3
+meghalayan	successful	0	2	1	3
+meghalayan	teacher	0	1	2	3
+meghalayan	travel	0	2	1	3
+meghalayan	violent	0	2	1	3
+meghalayan	photographer	0	3	0	3
+meghalayan	policeman	0	3	0	3
+meghalayan	politician	0	3	0	3
+meghalayan	politics	0	3	0	3
+meghalayan	powerful	0	3	0	3
+meghalayan	priest	0	3	0	3
+meghalayan	producer	0	3	0	3
+meghalayan	respected	0	3	0	3
+meghalayan	rich	0	3	0	3
+meghalayan	science	0	3	0	3
+meghalayan	scientist	0	3	0	3
+meghalayan	secretary	0	3	0	3
+meghalayan	singer	0	3	0	3
+meghalayan	statistics	0	3	0	3
+meghalayan	technology	0	3	0	3
+meghalayan	ugly	0	3	0	3
+meghalayan	vegetarian	0	3	0	3
+meghalayan	weak	0	3	0	3
+meghalayan	writer	0	3	0	3
+mizo	coach	0	2	1	3
+mizo	poor	0	2	1	3
+mizo	secretary	0	1	2	3
+odiya	accountant	0	3	0	3
+odiya	actor	0	3	0	3
+odiya	analyst	0	3	0	3
+odiya	angry	0	3	0	3
+odiya	architect	0	3	0	3
+odiya	army	0	3	0	3
+odiya	astronaut	0	3	0	3
+odiya	athlete	0	3	0	3
+odiya	attorney	0	3	0	3
+odiya	auditor	0	3	0	3
+odiya	author	0	3	0	3
+odiya	barber	0	3	0	3
+odiya	biology	0	3	0	3
+odiya	boxer	0	3	0	3
+odiya	broker	0	3	0	3
+odiya	business	0	3	0	3
+odiya	carpenter	0	3	0	3
+odiya	cashier	0	3	0	3
+odiya	ceo	0	3	0	3
+odiya	chemistry	0	3	0	3
+odiya	comedian	0	3	0	3
+odiya	commander	0	3	0	3
+odiya	composer	0	3	0	3
+odiya	consultant	0	3	0	3
+odiya	covered	0	3	0	3
+odiya	cricketer	0	3	0	3
+odiya	criminal	0	3	0	3
+odiya	diplomat	0	3	0	3
+odiya	driver	0	3	0	3
+odiya	dumb	0	3	0	3
+odiya	editor	0	3	0	3
+odiya	educated	0	3	0	3
+odiya	electronics	0	3	0	3
+odiya	engineer	0	3	0	3
+odiya	english	0	3	0	3
+odiya	fancy	0	3	0	3
+odiya	farmer	0	3	0	3
+odiya	finance	0	3	0	3
+odiya	fisherman	0	3	0	3
+odiya	golfer	0	3	0	3
+odiya	guard	0	3	0	3
+odiya	guitarist	0	3	0	3
+odiya	hated	0	3	0	3
+odiya	helpless	0	3	0	3
+odiya	historian	0	3	0	3
+odiya	history	0	3	0	3
+odiya	humanities	0	3	0	3
+odiya	journalist	0	3	0	3
+odiya	judge	0	3	0	3
+odiya	labourer	0	3	0	3
+odiya	law	0	3	0	3
+odiya	lawyer	0	3	0	3
+odiya	management	0	3	0	3
+odiya	manager	0	3	0	3
+odiya	mechanic	0	3	0	3
+odiya	nurse	0	3	0	3
+odiya	painter	0	3	0	3
+odiya	pandit	0	3	0	3
+odiya	academic	0	2	1	3
+odiya	photographer	0	3	0	3
+odiya	art	1	2	0	3
+odiya	artist	0	2	1	3
+odiya	assistant	0	2	1	3
+odiya	baker	0	1	2	3
+odiya	banker	0	2	1	3
+odiya	beautiful	1	1	1	3
+odiya	brave	0	2	1	3
+odiya	calm	1	2	0	3
+odiya	caring	0	2	1	3
+odiya	chef	1	2	0	3
+odiya	physician	0	3	0	3
+odiya	cleaner	0	2	1	3
+odiya	clerk	0	2	1	3
+odiya	coach	0	2	1	3
+odiya	colourful	1	2	0	3
+odiya	cook	1	2	0	3
+odiya	courageous	1	2	0	3
+odiya	dance	1	2	0	3
+odiya	dancer	1	1	1	3
+odiya	designer	0	0	3	3
+odiya	detective	0	1	2	3
+odiya	director	1	2	0	3
+odiya	doctor	0	2	1	3
+odiya	economist	0	2	1	3
+odiya	emotional	1	1	1	3
+odiya	physics	0	3	0	3
+odiya	fat	1	2	0	3
+odiya	handsome	0	2	1	3
+odiya	kind	1	1	1	3
+odiya	lowly	0	2	1	3
+odiya	maths	0	2	1	3
+odiya	model	0	2	1	3
+odiya	music	0	2	1	3
+odiya	musician	0	2	1	3
+odiya	poet	0	3	0	3
+odiya	pilot	0	2	1	3
+odiya	powerful	0	2	1	3
+odiya	professor	1	2	0	3
+odiya	police	0	3	0	3
+odiya	science	0	2	1	3
+odiya	short	0	2	1	3
+odiya	statistics	0	2	1	3
+odiya	policeman	0	3	0	3
+odiya	umpire	0	2	1	3
+odiya	vegetarian	1	2	0	3
+odiya	writer	1	2	0	3
+odiya	politician	0	3	0	3
+odiya	politics	0	3	0	3
+odiya	priest	0	3	0	3
+odiya	producer	0	3	0	3
+odiya	protective	0	3	0	3
+odiya	psychologist	0	3	0	3
+odiya	rapist	0	3	0	3
+odiya	respected	0	3	0	3
+odiya	rich	0	3	0	3
+odiya	ruthless	0	3	0	3
+odiya	poor	2	1	3	6
+odiya	scientist	0	3	0	3
+odiya	secretary	0	3	0	3
+odiya	singer	0	3	0	3
+odiya	smart	0	3	0	3
+odiya	soldier	0	3	0	3
+odiya	spicy	0	3	0	3
+odiya	strong	0	3	0	3
+odiya	successful	0	3	0	3
+odiya	supervisor	0	3	0	3
+odiya	tailor	0	3	0	3
+odiya	teacher	0	3	0	3
+odiya	technology	0	3	0	3
+odiya	thin	0	3	0	3
+odiya	travel	0	3	0	3
+odiya	treasurer	0	3	0	3
+odiya	ugly	0	3	0	3
+odiya	violent	0	3	0	3
+odiya	weak	0	3	0	3
+punjabi	accountant	0	3	0	3
+punjabi	analyst	0	3	0	3
+punjabi	architect	0	3	0	3
+punjabi	army	3	2	1	6
+punjabi	art	0	3	0	3
+punjabi	assistant	0	3	0	3
+punjabi	astronaut	0	3	0	3
+punjabi	attorney	0	3	0	3
+punjabi	angry	2	1	3	6
+punjabi	auditor	0	3	0	3
+punjabi	author	0	3	0	3
+punjabi	business	2	4	0	6
+punjabi	banker	0	3	0	3
+punjabi	barber	0	3	0	3
+punjabi	biology	0	3	0	3
+punjabi	chef	2	4	0	6
+punjabi	broker	0	3	0	3
+punjabi	commander	2	4	0	6
+punjabi	calm	0	3	0	3
+punjabi	caring	0	3	0	3
+punjabi	carpenter	0	3	0	3
+punjabi	cashier	0	3	0	3
+punjabi	clerk	0	3	0	3
+punjabi	coach	0	3	0	3
+punjabi	consultant	0	3	0	3
+punjabi	cook	3	3	0	6
+punjabi	cricketer	0	3	0	3
+punjabi	criminal	0	3	0	3
+punjabi	dentist	0	3	0	3
+punjabi	designer	0	3	0	3
+punjabi	detective	0	3	0	3
+punjabi	director	0	3	0	3
+punjabi	doctor	0	3	0	3
+punjabi	driver	2	4	0	6
+punjabi	dumb	0	3	0	3
+punjabi	economist	0	3	0	3
+punjabi	editor	0	3	0	3
+punjabi	electronics	0	3	0	3
+punjabi	engineer	0	3	0	3
+punjabi	english	0	3	0	3
+punjabi	finance	0	3	0	3
+punjabi	fisherman	0	3	0	3
+punjabi	guitarist	0	3	0	3
+punjabi	handsome	3	0	3	6
+punjabi	hated	0	3	0	3
+punjabi	helpless	0	3	0	3
+punjabi	historian	0	3	0	3
+punjabi	history	0	3	0	3
+punjabi	humanities	0	3	0	3
+punjabi	journalist	0	3	0	3
+punjabi	judge	0	3	0	3
+punjabi	labourer	0	3	0	3
+punjabi	law	0	3	0	3
+punjabi	lawyer	0	3	0	3
+punjabi	librarian	0	3	0	3
+punjabi	management	0	3	0	3
+punjabi	manager	0	3	0	3
+punjabi	mathematician	0	3	0	3
+punjabi	farmer	4	2	0	6
+punjabi	maths	0	3	0	3
+punjabi	nurse	0	3	0	3
+punjabi	painter	0	3	0	3
+punjabi	pandit	0	3	0	3
+punjabi	photographer	0	3	0	3
+punjabi	physician	0	3	0	3
+punjabi	pilot	0	3	0	3
+punjabi	poet	0	3	0	3
+punjabi	academic	1	2	0	3
+punjabi	actor	1	2	0	3
+punjabi	artist	1	2	0	3
+punjabi	politician	0	3	0	3
+punjabi	athlete	1	2	0	3
+punjabi	baker	1	2	0	3
+punjabi	beautiful	1	2	0	3
+punjabi	boxer	1	2	0	3
+punjabi	brave	1	1	1	3
+punjabi	ceo	1	2	0	3
+punjabi	chemistry	0	2	1	3
+punjabi	cleaner	0	2	1	3
+punjabi	colourful	1	2	0	3
+punjabi	comedian	1	2	0	3
+punjabi	composer	1	2	0	3
+punjabi	courageous	1	2	0	3
+punjabi	covered	1	2	0	3
+punjabi	dance	1	2	0	3
+punjabi	dancer	1	2	0	3
+punjabi	diplomat	1	2	0	3
+punjabi	educated	1	2	0	3
+punjabi	poor	0	3	0	3
+punjabi	emotional	1	2	0	3
+punjabi	fancy	1	2	0	3
+punjabi	fat	1	2	0	3
+punjabi	golfer	1	2	0	3
+punjabi	guard	1	2	0	3
+punjabi	kind	1	1	1	3
+punjabi	lowly	0	2	1	3
+punjabi	mechanic	0	2	1	3
+punjabi	model	1	2	0	3
+punjabi	musician	1	2	0	3
+punjabi	physics	0	1	2	3
+punjabi	priest	0	3	0	3
+punjabi	music	2	1	3	6
+punjabi	policeman	1	2	0	3
+punjabi	politics	1	2	0	3
+punjabi	psychologist	0	2	1	3
+punjabi	respected	1	2	0	3
+punjabi	rich	1	2	0	3
+punjabi	ruthless	1	2	0	3
+punjabi	scientist	0	2	1	3
+punjabi	short	0	2	1	3
+punjabi	singer	1	2	0	3
+punjabi	smart	1	2	0	3
+punjabi	spicy	1	2	0	3
+punjabi	successful	1	2	0	3
+punjabi	producer	0	3	0	3
+punjabi	thin	0	2	1	3
+punjabi	vegetarian	1	2	0	3
+punjabi	violent	1	2	0	3
+punjabi	professor	0	3	0	3
+punjabi	protective	0	3	0	3
+punjabi	rapist	0	3	0	3
+punjabi	police	2	4	0	6
+punjabi	science	0	3	0	3
+punjabi	powerful	2	1	3	6
+punjabi	secretary	0	3	0	3
+punjabi	sociologist	0	3	0	3
+punjabi	statistics	0	3	0	3
+punjabi	soldier	2	4	0	6
+punjabi	strong	3	0	3	6
+punjabi	supervisor	0	3	0	3
+punjabi	tailor	0	3	0	3
+punjabi	teacher	0	3	0	3
+punjabi	technology	0	3	0	3
+punjabi	travel	0	3	0	3
+punjabi	treasurer	0	3	0	3
+punjabi	ugly	0	3	0	3
+punjabi	umpire	0	3	0	3
+punjabi	weak	0	3	0	3
+punjabi	writer	0	3	0	3
+rajasthani	academic	0	3	0	3
+rajasthani	actor	0	3	0	3
+rajasthani	analyst	0	3	0	3
+rajasthani	angry	0	3	0	3
+rajasthani	architect	0	3	0	3
+rajasthani	assistant	0	3	0	3
+rajasthani	athlete	0	3	0	3
+rajasthani	attorney	0	3	0	3
+rajasthani	author	0	3	0	3
+rajasthani	beautiful	2	1	3	6
+rajasthani	baker	0	3	0	3
+rajasthani	banker	0	3	0	3
+rajasthani	business	3	3	0	6
+rajasthani	boxer	0	3	0	3
+rajasthani	calm	0	3	0	3
+rajasthani	caring	0	3	0	3
+rajasthani	ceo	0	3	0	3
+rajasthani	chef	0	3	0	3
+rajasthani	chemistry	0	3	0	3
+rajasthani	cleaner	0	3	0	3
+rajasthani	clerk	0	3	0	3
+rajasthani	coach	0	3	0	3
+rajasthani	comedian	0	3	0	3
+rajasthani	commander	0	3	0	3
+rajasthani	composer	0	3	0	3
+rajasthani	consultant	0	3	0	3
+rajasthani	courageous	0	3	0	3
+rajasthani	covered	0	3	0	3
+rajasthani	cricketer	0	3	0	3
+rajasthani	criminal	0	3	0	3
+rajasthani	dancer	2	4	0	6
+rajasthani	dance	3	0	3	6
+rajasthani	dentist	0	3	0	3
+rajasthani	detective	0	3	0	3
+rajasthani	diplomat	0	3	0	3
+rajasthani	director	0	3	0	3
+rajasthani	doctor	0	3	0	3
+rajasthani	driver	0	3	0	3
+rajasthani	dumb	0	3	0	3
+rajasthani	economist	0	3	0	3
+rajasthani	editor	0	3	0	3
+rajasthani	electronics	0	3	0	3
+rajasthani	emotional	0	3	0	3
+rajasthani	engineer	0	3	0	3
+rajasthani	english	0	3	0	3
+rajasthani	fancy	0	3	0	3
+rajasthani	farmer	0	3	0	3
+rajasthani	fat	0	3	0	3
+rajasthani	fisherman	0	3	0	3
+rajasthani	golfer	0	3	0	3
+rajasthani	guard	0	3	0	3
+rajasthani	guitarist	0	3	0	3
+rajasthani	hated	0	3	0	3
+rajasthani	helpless	0	3	0	3
+rajasthani	historian	0	3	0	3
+rajasthani	journalist	0	3	0	3
+rajasthani	finance	2	0	4	6
+rajasthani	labourer	0	3	0	3
+rajasthani	law	0	3	0	3
+rajasthani	lawyer	0	3	0	3
+rajasthani	lowly	0	3	0	3
+rajasthani	management	0	3	0	3
+rajasthani	manager	0	3	0	3
+rajasthani	mathematician	0	3	0	3
+rajasthani	maths	0	3	0	3
+rajasthani	mechanic	0	3	0	3
+rajasthani	model	0	3	0	3
+rajasthani	nurse	0	3	0	3
+rajasthani	pandit	0	3	0	3
+rajasthani	photographer	0	3	0	3
+rajasthani	physician	0	3	0	3
+rajasthani	physics	0	3	0	3
+rajasthani	poet	0	3	0	3
+rajasthani	history	2	0	4	6
+rajasthani	police	0	3	0	3
+rajasthani	politician	0	3	0	3
+rajasthani	vegetarian	4	2	0	6
+rajasthani	politics	0	3	0	3
+rajasthani	poor	0	3	0	3
+rajasthani	powerful	0	3	0	3
+rajasthani	priest	0	3	0	3
+rajasthani	music	2	1	3	6
+rajasthani	producer	0	3	0	3
+rajasthani	accountant	1	0	2	3
+rajasthani	army	0	2	1	3
+rajasthani	art	1	2	0	3
+rajasthani	artist	1	2	0	3
+rajasthani	astronaut	0	2	1	3
+rajasthani	auditor	0	2	1	3
+rajasthani	barber	0	2	1	3
+rajasthani	biology	0	1	2	3
+rajasthani	brave	0	2	1	3
+rajasthani	broker	0	2	1	3
+rajasthani	carpenter	0	2	1	3
+rajasthani	cashier	1	2	0	3
+rajasthani	protective	0	3	0	3
+rajasthani	colourful	1	1	1	3
+rajasthani	cook	1	2	0	3
+rajasthani	psychologist	0	3	0	3
+rajasthani	designer	1	2	0	3
+rajasthani	rapist	0	3	0	3
+rajasthani	educated	1	2	0	3
+rajasthani	handsome	0	2	1	3
+rajasthani	humanities	1	2	0	3
+rajasthani	respected	0	3	0	3
+rajasthani	judge	0	2	1	3
+rajasthani	kind	1	1	1	3
+rajasthani	librarian	0	2	1	3
+rajasthani	musician	1	2	0	3
+rajasthani	painter	0	2	1	3
+rajasthani	pilot	0	2	1	3
+rajasthani	policeman	1	2	0	3
+rajasthani	professor	0	2	1	3
+rajasthani	ruthless	0	3	0	3
+rajasthani	science	0	2	1	3
+rajasthani	singer	1	2	0	3
+rajasthani	smart	1	2	0	3
+rajasthani	soldier	1	1	1	3
+rajasthani	spicy	1	2	0	3
+rajasthani	treasurer	1	2	0	3
+rajasthani	scientist	0	3	0	3
+rajasthani	secretary	0	3	0	3
+rajasthani	short	0	3	0	3
+rajasthani	sociologist	0	3	0	3
+rajasthani	rich	2	1	3	6
+rajasthani	statistics	0	3	0	3
+rajasthani	strong	0	3	0	3
+rajasthani	successful	0	3	0	3
+rajasthani	supervisor	0	3	0	3
+rajasthani	tailor	0	3	0	3
+rajasthani	teacher	0	3	0	3
+rajasthani	technology	0	3	0	3
+rajasthani	thin	0	3	0	3
+rajasthani	travel	0	3	0	3
+rajasthani	ugly	0	3	0	3
+rajasthani	umpire	0	3	0	3
+rajasthani	violent	0	3	0	3
+rajasthani	weak	0	3	0	3
+rajasthani	writer	0	3	0	3
+tamilian	accountant	0	3	0	3
+tamilian	actor	0	3	0	3
+tamilian	analyst	0	3	0	3
+tamilian	academic	2	1	3	6
+tamilian	architect	0	3	0	3
+tamilian	army	0	3	0	3
+tamilian	art	0	3	0	3
+tamilian	artist	0	3	0	3
+tamilian	assistant	0	3	0	3
+tamilian	astronaut	0	3	0	3
+tamilian	athlete	0	3	0	3
+tamilian	auditor	0	3	0	3
+tamilian	author	0	3	0	3
+tamilian	baker	0	3	0	3
+tamilian	banker	0	3	0	3
+tamilian	barber	0	3	0	3
+tamilian	beautiful	0	3	0	3
+tamilian	boxer	0	3	0	3
+tamilian	brave	0	3	0	3
+tamilian	broker	0	3	0	3
+tamilian	business	0	3	0	3
+tamilian	calm	0	3	0	3
+tamilian	caring	0	3	0	3
+tamilian	carpenter	0	3	0	3
+tamilian	chef	0	3	0	3
+tamilian	chemistry	0	3	0	3
+tamilian	coach	0	3	0	3
+tamilian	colourful	0	3	0	3
+tamilian	comedian	0	3	0	3
+tamilian	commander	0	3	0	3
+tamilian	consultant	0	3	0	3
+tamilian	cook	0	3	0	3
+tamilian	covered	0	3	0	3
+tamilian	dance	2	1	3	6
+tamilian	cricketer	0	3	0	3
+tamilian	criminal	0	3	0	3
+tamilian	designer	0	3	0	3
+tamilian	director	0	3	0	3
+tamilian	driver	0	3	0	3
+tamilian	dumb	0	3	0	3
+tamilian	editor	0	3	0	3
+tamilian	educated	0	3	0	3
+tamilian	english	2	1	3	6
+tamilian	emotional	0	3	0	3
+tamilian	fancy	0	3	0	3
+tamilian	farmer	0	3	0	3
+tamilian	fat	0	3	0	3
+tamilian	golfer	0	3	0	3
+tamilian	guard	0	3	0	3
+tamilian	hated	0	3	0	3
+tamilian	helpless	0	3	0	3
+tamilian	journalist	0	3	0	3
+tamilian	kind	0	3	0	3
+tamilian	law	0	3	0	3
+tamilian	librarian	0	3	0	3
+tamilian	lowly	0	3	0	3
+tamilian	management	0	3	0	3
+tamilian	manager	0	3	0	3
+tamilian	model	0	3	0	3
+tamilian	nurse	0	3	0	3
+tamilian	photographer	0	3	0	3
+tamilian	physician	0	3	0	3
+tamilian	police	0	3	0	3
+tamilian	policeman	0	3	0	3
+tamilian	maths	2	1	3	6
+tamilian	producer	0	3	0	3
+tamilian	musician	2	4	0	6
+tamilian	protective	0	3	0	3
+tamilian	psychologist	0	3	0	3
+tamilian	mathematician	6	0	0	6
+tamilian	rapist	0	3	0	3
+tamilian	rich	0	3	0	3
+tamilian	ruthless	0	3	0	3
+tamilian	angry	1	2	0	3
+tamilian	attorney	1	2	0	3
+tamilian	biology	0	2	1	3
+tamilian	secretary	0	3	0	3
+tamilian	ceo	1	2	0	3
+tamilian	cleaner	0	2	1	3
+tamilian	clerk	0	2	1	3
+tamilian	composer	1	2	0	3
+tamilian	short	0	3	0	3
+tamilian	courageous	1	2	0	3
+tamilian	dancer	1	2	0	3
+tamilian	dentist	0	1	2	3
+tamilian	detective	0	1	2	3
+tamilian	diplomat	1	2	0	3
+tamilian	doctor	1	2	0	3
+tamilian	economist	1	2	0	3
+tamilian	electronics	1	2	0	3
+tamilian	engineer	1	2	0	3
+tamilian	finance	1	2	0	3
+tamilian	fisherman	1	2	0	3
+tamilian	guitarist	0	1	2	3
+tamilian	handsome	1	2	0	3
+tamilian	historian	1	2	0	3
+tamilian	history	0	1	2	3
+tamilian	humanities	1	2	0	3
+tamilian	judge	1	2	0	3
+tamilian	labourer	0	2	1	3
+tamilian	lawyer	1	2	0	3
+tamilian	mechanic	0	2	1	3
+tamilian	music	1	2	0	3
+tamilian	painter	0	2	1	3
+tamilian	pandit	1	2	0	3
+tamilian	physics	1	2	0	3
+tamilian	pilot	0	2	1	3
+tamilian	poet	0	2	1	3
+tamilian	sociologist	0	3	0	3
+tamilian	politician	1	2	0	3
+tamilian	politics	1	1	1	3
+tamilian	poor	0	2	1	3
+tamilian	powerful	0	2	1	3
+tamilian	priest	1	2	0	3
+tamilian	professor	1	2	0	3
+tamilian	respected	1	2	0	3
+tamilian	science	2	1	3	6
+tamilian	singer	1	2	0	3
+tamilian	smart	1	2	0	3
+tamilian	soldier	0	3	0	3
+tamilian	spicy	1	2	0	3
+tamilian	statistics	1	2	0	3
+tamilian	successful	1	2	0	3
+tamilian	tailor	0	2	1	3
+tamilian	scientist	2	4	0	6
+tamilian	vegetarian	1	2	0	3
+tamilian	writer	1	1	1	3
+tamilian	teacher	2	4	0	6
+tamilian	technology	2	1	3	6
+tamilian	strong	0	3	0	3
+tamilian	supervisor	0	3	0	3
+tamilian	thin	0	3	0	3
+tamilian	travel	0	3	0	3
+tamilian	treasurer	0	3	0	3
+tamilian	ugly	0	3	0	3
+tamilian	umpire	0	3	0	3
+tamilian	violent	0	3	0	3
+tamilian	weak	0	3	0	3
+telugu	analyst	0	3	0	3
+telugu	art	0	3	0	3
+telugu	assistant	0	3	0	3
+telugu	business	0	3	0	3
+telugu	cook	0	3	0	3
+telugu	cricketer	0	3	0	3
+telugu	dance	2	1	3	6
+telugu	criminal	0	3	0	3
+telugu	driver	0	3	0	3
+telugu	electronics	0	3	0	3
+telugu	kind	0	3	0	3
+telugu	law	0	3	0	3
+telugu	management	0	3	0	3
+telugu	manager	0	3	0	3
+telugu	model	0	3	0	3
+telugu	poor	0	3	0	3
+telugu	music	2	1	3	6
+telugu	professor	0	3	0	3
+telugu	secretary	0	3	0	3
+telugu	short	0	3	0	3
+telugu	powerful	2	1	3	6
+telugu	producer	2	4	0	6
+telugu	actor	1	2	0	3
+telugu	army	0	2	1	3
+telugu	artist	1	2	0	3
+telugu	ceo	1	2	0	3
+telugu	smart	2	1	3	6
+telugu	director	1	2	0	3
+telugu	educated	1	2	0	3
+telugu	finance	0	1	2	3
+telugu	history	0	1	2	3
+telugu	police	0	2	1	3
+telugu	strong	2	1	3	6
+telugu	rich	1	2	0	3
+telugu	science	1	2	0	3
+telugu	successful	1	2	0	3
+telugu	technology	2	0	4	6
+telugu	teacher	0	3	0	3
+telugu	writer	0	3	0	3
+tripuri	army	0	3	0	3
+tripuri	artist	0	3	0	3
+tripuri	assistant	0	3	0	3
+tripuri	business	0	3	0	3
+tripuri	commander	0	3	0	3
+tripuri	director	0	3	0	3
+tripuri	driver	0	3	0	3
+tripuri	english	0	3	0	3
+tripuri	guard	0	3	0	3
+tripuri	history	0	3	0	3
+tripuri	judge	0	3	0	3
+tripuri	kind	0	3	0	3
+tripuri	law	0	3	0	3
+tripuri	music	0	3	0	3
+tripuri	photographer	0	3	0	3
+tripuri	police	0	3	0	3
+tripuri	politics	0	3	0	3
+tripuri	poor	0	3	0	3
+tripuri	professor	0	3	0	3
+tripuri	respected	0	3	0	3
+tripuri	rich	0	3	0	3
+tripuri	secretary	0	3	0	3
+tripuri	short	0	3	0	3
+tripuri	art	1	2	0	3
+tripuri	author	0	2	1	3
+tripuri	strong	0	3	0	3
+tripuri	dance	1	2	0	3
+tripuri	doctor	0	2	1	3
+tripuri	editor	0	2	1	3
+tripuri	finance	0	1	2	3
+tripuri	journalist	0	2	1	3
+tripuri	musician	0	2	1	3
+tripuri	science	0	2	1	3
+tripuri	violent	0	3	0	3
+tripuri	writer	0	3	0	3
+uttar pradeshi	academic	0	3	0	3
+uttar pradeshi	accountant	0	3	0	3
+uttar pradeshi	actor	0	3	0	3
+uttar pradeshi	analyst	0	3	0	3
+uttar pradeshi	angry	0	3	0	3
+uttar pradeshi	architect	0	3	0	3
+uttar pradeshi	art	0	3	0	3
+uttar pradeshi	artist	0	3	0	3
+uttar pradeshi	assistant	0	3	0	3
+uttar pradeshi	astronaut	0	3	0	3
+uttar pradeshi	attorney	0	3	0	3
+uttar pradeshi	auditor	0	3	0	3
+uttar pradeshi	baker	0	3	0	3
+uttar pradeshi	banker	0	3	0	3
+uttar pradeshi	beautiful	0	3	0	3
+uttar pradeshi	biology	0	3	0	3
+uttar pradeshi	boxer	0	3	0	3
+uttar pradeshi	brave	0	3	0	3
+uttar pradeshi	calm	0	3	0	3
+uttar pradeshi	carpenter	0	3	0	3
+uttar pradeshi	cashier	0	3	0	3
+uttar pradeshi	ceo	0	3	0	3
+uttar pradeshi	chef	0	3	0	3
+uttar pradeshi	cleaner	0	3	0	3
+uttar pradeshi	clerk	0	3	0	3
+uttar pradeshi	coach	0	3	0	3
+uttar pradeshi	commander	0	3	0	3
+uttar pradeshi	composer	0	3	0	3
+uttar pradeshi	consultant	0	3	0	3
+uttar pradeshi	cook	0	3	0	3
+uttar pradeshi	covered	0	3	0	3
+uttar pradeshi	cricketer	0	3	0	3
+uttar pradeshi	dancer	0	3	0	3
+uttar pradeshi	dentist	0	3	0	3
+uttar pradeshi	designer	0	3	0	3
+uttar pradeshi	detective	0	3	0	3
+uttar pradeshi	diplomat	0	3	0	3
+uttar pradeshi	director	0	3	0	3
+uttar pradeshi	dumb	0	3	0	3
+uttar pradeshi	economist	0	3	0	3
+uttar pradeshi	editor	0	3	0	3
+uttar pradeshi	electronics	0	3	0	3
+uttar pradeshi	emotional	0	3	0	3
+uttar pradeshi	engineer	0	3	0	3
+uttar pradeshi	english	0	3	0	3
+uttar pradeshi	fancy	0	3	0	3
+uttar pradeshi	fat	0	3	0	3
+uttar pradeshi	finance	0	3	0	3
+uttar pradeshi	fisherman	0	3	0	3
+uttar pradeshi	golfer	0	3	0	3
+uttar pradeshi	guitarist	0	3	0	3
+uttar pradeshi	handsome	0	3	0	3
+uttar pradeshi	hated	0	3	0	3
+uttar pradeshi	helpless	0	3	0	3
+uttar pradeshi	humanities	0	3	0	3
+uttar pradeshi	judge	0	3	0	3
+uttar pradeshi	law	0	3	0	3
+uttar pradeshi	lawyer	0	3	0	3
+uttar pradeshi	librarian	0	3	0	3
+uttar pradeshi	lowly	0	3	0	3
+uttar pradeshi	management	0	3	0	3
+uttar pradeshi	manager	0	3	0	3
+uttar pradeshi	mathematician	0	3	0	3
+uttar pradeshi	mechanic	0	3	0	3
+uttar pradeshi	model	0	3	0	3
+uttar pradeshi	music	0	3	0	3
+uttar pradeshi	nurse	0	3	0	3
+uttar pradeshi	photographer	0	3	0	3
+uttar pradeshi	physics	0	3	0	3
+uttar pradeshi	poet	3	3	0	6
+uttar pradeshi	police	0	3	0	3
+uttar pradeshi	policeman	0	3	0	3
+uttar pradeshi	powerful	0	3	0	3
+uttar pradeshi	producer	0	3	0	3
+uttar pradeshi	psychologist	0	3	0	3
+uttar pradeshi	respected	0	3	0	3
+uttar pradeshi	rich	0	3	0	3
+uttar pradeshi	scientist	0	3	0	3
+uttar pradeshi	singer	0	3	0	3
+uttar pradeshi	sociologist	0	3	0	3
+uttar pradeshi	soldier	0	3	0	3
+uttar pradeshi	spicy	0	3	0	3
+uttar pradeshi	statistics	0	3	0	3
+uttar pradeshi	successful	0	3	0	3
+uttar pradeshi	supervisor	0	3	0	3
+uttar pradeshi	army	0	2	1	3
+uttar pradeshi	athlete	0	2	1	3
+uttar pradeshi	author	1	2	0	3
+uttar pradeshi	barber	0	2	1	3
+uttar pradeshi	broker	0	2	1	3
+uttar pradeshi	business	1	2	0	3
+uttar pradeshi	caring	0	2	1	3
+uttar pradeshi	chemistry	0	2	1	3
+uttar pradeshi	colourful	1	1	1	3
+uttar pradeshi	comedian	1	2	0	3
+uttar pradeshi	courageous	0	2	1	3
+uttar pradeshi	criminal	0	2	1	3
+uttar pradeshi	dance	1	2	0	3
+uttar pradeshi	doctor	0	2	1	3
+uttar pradeshi	driver	1	1	1	3
+uttar pradeshi	educated	0	2	1	3
+uttar pradeshi	technology	0	3	0	3
+uttar pradeshi	farmer	4	1	1	6
+uttar pradeshi	guard	0	1	2	3
+uttar pradeshi	historian	1	2	0	3
+uttar pradeshi	history	1	2	0	3
+uttar pradeshi	journalist	1	2	0	3
+uttar pradeshi	kind	0	2	1	3
+uttar pradeshi	labourer	1	1	1	3
+uttar pradeshi	thin	0	3	0	3
+uttar pradeshi	maths	0	2	1	3
+uttar pradeshi	musician	1	2	0	3
+uttar pradeshi	painter	0	2	1	3
+uttar pradeshi	pandit	0	2	1	3
+uttar pradeshi	physician	0	2	1	3
+uttar pradeshi	pilot	0	1	2	3
+uttar pradeshi	politician	0	2	1	3
+uttar pradeshi	politics	0	2	1	3
+uttar pradeshi	poor	1	2	0	3
+uttar pradeshi	priest	0	1	2	3
+uttar pradeshi	professor	1	2	0	3
+uttar pradeshi	protective	0	2	1	3
+uttar pradeshi	rapist	1	2	0	3
+uttar pradeshi	travel	0	3	0	3
+uttar pradeshi	ruthless	0	2	1	3
+uttar pradeshi	science	0	2	1	3
+uttar pradeshi	secretary	0	2	1	3
+uttar pradeshi	short	0	2	1	3
+uttar pradeshi	smart	0	2	1	3
+uttar pradeshi	strong	1	2	0	3
+uttar pradeshi	tailor	1	2	0	3
+uttar pradeshi	teacher	1	2	0	3
+uttar pradeshi	treasurer	0	3	0	3
+uttar pradeshi	umpire	1	1	1	3
+uttar pradeshi	violent	2	0	4	6
+uttar pradeshi	writer	2	4	0	6
+uttar pradeshi	ugly	0	3	0	3
+uttar pradeshi	vegetarian	0	3	0	3
+uttar pradeshi	weak	0	3	0	3
+uttarakhandi	angry	0	3	0	3
+uttarakhandi	architect	0	3	0	3
+uttarakhandi	army	0	3	0	3
+uttarakhandi	astronaut	0	3	0	3
+uttarakhandi	auditor	0	3	0	3
+uttarakhandi	author	0	3	0	3
+uttarakhandi	banker	0	3	0	3
+uttarakhandi	biology	0	3	0	3
+uttarakhandi	boxer	0	3	0	3
+uttarakhandi	brave	0	3	0	3
+uttarakhandi	business	0	3	0	3
+uttarakhandi	calm	0	3	0	3
+uttarakhandi	cashier	0	3	0	3
+uttarakhandi	ceo	0	3	0	3
+uttarakhandi	chef	0	3	0	3
+uttarakhandi	chemistry	0	3	0	3
+uttarakhandi	coach	0	3	0	3
+uttarakhandi	comedian	0	3	0	3
+uttarakhandi	consultant	0	3	0	3
+uttarakhandi	cook	0	3	0	3
+uttarakhandi	courageous	0	3	0	3
+uttarakhandi	covered	0	3	0	3
+uttarakhandi	cricketer	0	3	0	3
+uttarakhandi	criminal	0	3	0	3
+uttarakhandi	dance	0	3	0	3
+uttarakhandi	dancer	0	3	0	3
+uttarakhandi	dentist	0	3	0	3
+uttarakhandi	designer	0	3	0	3
+uttarakhandi	diplomat	0	3	0	3
+uttarakhandi	dumb	0	3	0	3
+uttarakhandi	editor	0	3	0	3
+uttarakhandi	educated	0	3	0	3
+uttarakhandi	electronics	0	3	0	3
+uttarakhandi	english	0	3	0	3
+uttarakhandi	fancy	0	3	0	3
+uttarakhandi	fat	0	3	0	3
+uttarakhandi	fisherman	0	3	0	3
+uttarakhandi	golfer	0	3	0	3
+uttarakhandi	guitarist	0	3	0	3
+uttarakhandi	hated	0	3	0	3
+uttarakhandi	helpless	0	3	0	3
+uttarakhandi	historian	0	3	0	3
+uttarakhandi	humanities	0	3	0	3
+uttarakhandi	journalist	0	3	0	3
+uttarakhandi	judge	0	3	0	3
+uttarakhandi	lawyer	0	3	0	3
+uttarakhandi	librarian	0	3	0	3
+uttarakhandi	management	0	3	0	3
+uttarakhandi	mechanic	0	3	0	3
+uttarakhandi	music	0	3	0	3
+uttarakhandi	nurse	0	3	0	3
+uttarakhandi	physician	0	3	0	3
+uttarakhandi	pilot	0	3	0	3
+uttarakhandi	police	0	3	0	3
+uttarakhandi	policeman	0	3	0	3
+uttarakhandi	politician	0	3	0	3
+uttarakhandi	politics	0	3	0	3
+uttarakhandi	powerful	0	3	0	3
+uttarakhandi	protective	0	3	0	3
+uttarakhandi	rapist	0	3	0	3
+uttarakhandi	rich	0	3	0	3
+uttarakhandi	ruthless	0	3	0	3
+uttarakhandi	secretary	0	3	0	3
+uttarakhandi	singer	0	3	0	3
+uttarakhandi	sociologist	0	3	0	3
+uttarakhandi	soldier	0	3	0	3
+uttarakhandi	statistics	0	3	0	3
+uttarakhandi	strong	0	3	0	3
+uttarakhandi	successful	0	3	0	3
+uttarakhandi	supervisor	0	3	0	3
+uttarakhandi	tailor	0	3	0	3
+uttarakhandi	technology	0	3	0	3
+uttarakhandi	thin	0	3	0	3
+uttarakhandi	academic	0	2	1	3
+uttarakhandi	accountant	0	2	1	3
+uttarakhandi	actor	0	2	1	3
+uttarakhandi	analyst	0	1	2	3
+uttarakhandi	art	0	2	1	3
+uttarakhandi	artist	1	2	0	3
+uttarakhandi	assistant	0	2	1	3
+uttarakhandi	athlete	1	2	0	3
+uttarakhandi	attorney	0	2	1	3
+uttarakhandi	baker	0	1	2	3
+uttarakhandi	barber	0	2	1	3
+uttarakhandi	beautiful	1	2	0	3
+uttarakhandi	broker	1	2	0	3
+uttarakhandi	ugly	0	3	0	3
+uttarakhandi	caring	0	2	1	3
+uttarakhandi	carpenter	0	1	2	3
+uttarakhandi	cleaner	0	2	1	3
+uttarakhandi	clerk	0	2	1	3
+uttarakhandi	colourful	0	2	1	3
+uttarakhandi	commander	0	2	1	3
+uttarakhandi	composer	0	2	1	3
+uttarakhandi	vegetarian	0	3	0	3
+uttarakhandi	detective	0	1	2	3
+uttarakhandi	director	0	2	1	3
+uttarakhandi	doctor	0	1	2	3
+uttarakhandi	driver	0	2	1	3
+uttarakhandi	economist	0	2	1	3
+uttarakhandi	emotional	0	2	1	3
+uttarakhandi	engineer	0	2	1	3
+uttarakhandi	farmer	1	2	0	3
+uttarakhandi	finance	0	2	1	3
+uttarakhandi	guard	0	2	1	3
+uttarakhandi	handsome	1	2	0	3
+uttarakhandi	violent	0	3	0	3
+uttarakhandi	history	0	2	1	3
+uttarakhandi	kind	1	2	0	3
+uttarakhandi	labourer	0	1	2	3
+uttarakhandi	law	0	2	1	3
+uttarakhandi	lowly	0	2	1	3
+uttarakhandi	manager	0	2	1	3
+uttarakhandi	maths	0	2	1	3
+uttarakhandi	model	0	2	1	3
+uttarakhandi	musician	1	2	0	3
+uttarakhandi	painter	0	2	1	3
+uttarakhandi	pandit	1	1	1	3
+uttarakhandi	photographer	1	1	1	3
+uttarakhandi	physics	0	1	2	3
+uttarakhandi	poet	0	2	1	3
+uttarakhandi	poor	0	2	1	3
+uttarakhandi	priest	1	2	0	3
+uttarakhandi	producer	0	2	1	3
+uttarakhandi	professor	0	2	1	3
+uttarakhandi	psychologist	0	1	2	3
+uttarakhandi	respected	0	2	1	3
+uttarakhandi	science	0	2	1	3
+uttarakhandi	scientist	0	2	1	3
+uttarakhandi	short	0	2	1	3
+uttarakhandi	smart	1	2	0	3
+uttarakhandi	spicy	0	2	1	3
+uttarakhandi	teacher	0	2	1	3
+uttarakhandi	travel	1	1	1	3
+uttarakhandi	treasurer	1	1	1	3
+uttarakhandi	umpire	1	2	0	3
+uttarakhandi	weak	0	2	1	3
+uttarakhandi	writer	0	2	1	3
